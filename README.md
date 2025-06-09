@@ -1,4 +1,4 @@
-# Netwwork_performance_dashboard
+# Defensive Network Project
 # 🌐 Network Performance Dashboard (Cloudflare vs Baseline)
 
 This project presents an interactive Tableau dashboard that compares global network performance using data from two configurations:
