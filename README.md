@@ -56,12 +56,12 @@ The top section includes **KPI cards** to summarize overall performance:
 ---
 
 ## 📈 Demo
-> *(Optional if publishing to Tableau Public — insert link)*  
-https://public.tableau.com/views/NetworkPerformanceDashboard
+
+https://public.tableau.com/app/profile/siddhant.evre/viz/Network_Performance_dashboard/Dashboard1
 
 ---
 
 ## 🧑‍💼 Author
 **Siddhant Evre**  
-MS in Data Science, University of Illinois Urbana-Champaign  
+MS in Information Management, University of Illinois Urbana-Champaign  
 [LinkedIn](https://www.linkedin.com/in/siddhantevre/)
