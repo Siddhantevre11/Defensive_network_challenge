@@ -1,0 +1,503 @@
+TEST,DESTINATION,LOCATION,metric_mean,metric_std,Source,test_failed,is_failed,Latency Score,Unit Label,Source Label,Region,Test Category,Performance Grade,Log Timestamp
+PING,angolacables.co.ao,"Luanda, AO",117.025,106.772,Baseline,False,0,117.025,ms,Baseline (AWS),Africa,Latency,Average,2025-05-30 08:00:00
+PING,jumia.com.ng,"San Francisco, US",1.09,0.991,Baseline,False,0,1.09,ms,Baseline (AWS),North America,Latency,Good,2025-05-30 08:15:00
+PING,0.ie.pool.ntp.org,"San Francisco, US",100.0,,Baseline,False,0,100.0,ms,Baseline (AWS),North America,Latency,Average,2025-05-30 08:30:00
+PING,safaricom.co.ke,"San Mateo, US",19.837,18.095,Baseline,False,0,19.837,ms,Baseline (AWS),North America,Latency,Good,2025-05-30 08:45:00
+PING,aliyun.com,"Shanghai, CN",102.134,93.226,Baseline,False,0,102.134,ms,Baseline (AWS),Asia,Latency,Average,2025-05-30 09:00:00
+PING,rakuten.co.jp,"Tokyo, JP",65.357,59.66,Baseline,False,0,65.357,ms,Baseline (AWS),Asia,Latency,Good,2025-05-30 09:15:00
+PING,2.kr.pool.ntp.org,"Seongnam-si, KR",86.328,78.684,Baseline,False,0,86.328,ms,Baseline (AWS),Other,Latency,Good,2025-05-30 09:30:00
+PING,thairath.co.th,"San Jose, US",0.812,0.737,Baseline,False,0,0.812,ms,Baseline (AWS),North America,Latency,Good,2025-05-30 09:45:00
+PING,1.vn.pool.ntp.org,"Ho Chi Minh City, VN",120.975,110.424,Baseline,False,0,120.975,ms,Baseline (AWS),Other,Latency,Average,2025-05-30 10:00:00
+PING,mimos.my,"Bukit Jalil, MY",103.046,94.033,Baseline,False,0,103.046,ms,Baseline (AWS),Other,Latency,Average,2025-05-30 10:15:00
+PING,arynews.tv,"Austin, US",1.27,1.147,Baseline,False,0,1.27,ms,Baseline (AWS),North America,Latency,Good,2025-05-30 10:30:00
+PING,hurriyet.com.tr,"Istanbul, TR",116.404,106.231,Baseline,False,0,116.404,ms,Baseline (AWS),Other,Latency,Average,2025-05-30 10:45:00
+PING,1.us.pool.ntp.org,"San Jose, US",100.0,,Baseline,False,0,100.0,ms,Baseline (AWS),North America,Latency,Average,2025-05-30 11:00:00
+PING,spiegel.de,"Frankfurt am Main, DE",98.781,90.158,Baseline,False,0,98.781,ms,Baseline (AWS),Europe,Latency,Good,2025-05-30 11:15:00
+PING,lemond.fr,"Paris, FR",92.169,84.122,Baseline,False,0,92.169,ms,Baseline (AWS),Europe,Latency,Good,2025-05-30 11:30:00
+PING,elpais.com,"San Jose, US",1.353,1.23,Baseline,False,0,1.353,ms,Baseline (AWS),North America,Latency,Good,2025-05-30 11:45:00
+PING,aftonbladet.se,"Seattle, US",1.016,0.925,Baseline,False,0,1.016,ms,Baseline (AWS),North America,Latency,Good,2025-05-30 12:00:00
+PING,wp.pl,"Gdynia, PL",101.195,92.363,Baseline,False,0,101.195,ms,Baseline (AWS),Other,Latency,Average,2025-05-30 12:15:00
+PING,seznam.cz,"Prague, CZ",98.656,90.053,Baseline,False,0,98.656,ms,Baseline (AWS),Other,Latency,Good,2025-05-30 12:30:00
+PING,cnn.gr,"Lelystad, NL",89.737,81.905,Baseline,False,0,89.737,ms,Baseline (AWS),Other,Latency,Good,2025-05-30 12:45:00
+PING,amazon.com,"Ashburn, US",35.003,31.848,Baseline,False,0,35.003,ms,Baseline (AWS),North America,Latency,Good,2025-05-30 13:00:00
+PING,google.com,"Sunnyvale, US",1.126,1.024,Baseline,False,0,1.126,ms,Baseline (AWS),North America,Latency,Good,2025-05-30 13:15:00
+PING,cbc.ca,"El Segundo, US",5.283,4.816,Baseline,False,0,5.283,ms,Baseline (AWS),North America,Latency,Good,2025-05-30 13:30:00
+PING,1.cr.pool.ntp.org,"San Ramón, CR",75.36,58.008,Baseline,False,0,75.36,ms,Baseline (AWS),Other,Latency,Good,2025-05-30 13:45:00
+PING,3.us.pool.ntp.org,"Kansas City, US",1.963,1.768,Baseline,False,0,1.963,ms,Baseline (AWS),North America,Latency,Good,2025-05-30 14:00:00
+PING,lapatria.bo,"Phoenix, US",10.125,9.228,Baseline,False,0,10.125,ms,Baseline (AWS),North America,Latency,Good,2025-05-30 14:15:00
+PING,emol.com,"Santiago, CL",105.646,96.397,Baseline,False,0,105.646,ms,Baseline (AWS),Other,Latency,Average,2025-05-30 14:30:00
+PING,za.yahoo.com,"San Jose, US",0.905,0.817,Baseline,False,0,0.905,ms,Baseline (AWS),North America,Latency,Good,2025-05-30 14:45:00
+PING,bbc.co.uk,"San Francisco, US",2.587,2.331,Baseline,False,0,2.587,ms,Baseline (AWS),North America,Latency,Good,2025-05-30 15:00:00
+PING,abc.net.au,"San Jose, US",1.322,1.203,Baseline,False,0,1.322,ms,Baseline (AWS),North America,Latency,Good,2025-05-30 15:15:00
+PING,nzherald.co.nz,"San Francisco, US",1.363,1.235,Baseline,False,0,1.363,ms,Baseline (AWS),North America,Latency,Good,2025-05-30 15:30:00
+PING,postcourier.com.pg,"San Jose, US",1.327,1.202,Baseline,False,0,1.327,ms,Baseline (AWS),North America,Latency,Good,2025-05-30 15:45:00
+PING,samoaobserver.ws,"San Francisco, US",1.293,1.173,Baseline,False,0,1.293,ms,Baseline (AWS),North America,Latency,Good,2025-05-30 16:00:00
+PING,uol.com.br,"São Paulo, BR",110.154,100.548,Baseline,False,0,110.154,ms,Baseline (AWS),South America,Latency,Average,2025-05-30 16:15:00
+PING,rte.ie,"San Francisco, US",1.314,1.171,Baseline,False,0,1.314,ms,Baseline (AWS),North America,Latency,Good,2025-05-30 16:30:00
+PING,news24.com,"San Francisco, US",1.187,1.063,Baseline,False,0,1.187,ms,Baseline (AWS),North America,Latency,Good,2025-05-30 16:45:00
+TRACERTE,angolacables.co.ao,"Luanda, AO",12.0,,Baseline,False,0,,Mbps / s,Baseline (AWS),Africa,Other,Good,2025-05-30 17:00:00
+TRACERTE,jumia.com.ng,"San Francisco, US",8.0,,Baseline,False,0,,Mbps / s,Baseline (AWS),North America,Other,Good,2025-05-30 17:15:00
+TRACERTE,0.ie.pool.ntp.org,"Dublin, IE",21.0,,Baseline,False,0,,Mbps / s,Baseline (AWS),Other,Other,Good,2025-05-30 17:30:00
+TRACERTE,safaricom.co.ke,"San Mateo, US",8.0,,Baseline,False,0,,Mbps / s,Baseline (AWS),North America,Other,Good,2025-05-30 17:45:00
+TRACERTE,aliyun.com,"Shanghai, CN",16.0,,Baseline,False,0,,Mbps / s,Baseline (AWS),Asia,Other,Good,2025-05-30 18:00:00
+TRACERTE,rakuten.co.jp,"Tokyo, JP",15.0,,Baseline,False,0,,Mbps / s,Baseline (AWS),Asia,Other,Good,2025-05-30 18:15:00
+TRACERTE,2.kr.pool.ntp.org,"Seoul, KR",10.0,,Baseline,False,0,,Mbps / s,Baseline (AWS),Other,Other,Good,2025-05-30 18:30:00
+TRACERTE,thairath.co.th,"San Jose, US",9.0,,Baseline,False,0,,Mbps / s,Baseline (AWS),North America,Other,Good,2025-05-30 18:45:00
+TRACERTE,1.vn.pool.ntp.org,"Ho Chi Minh City, VN",15.0,,Baseline,False,0,,Mbps / s,Baseline (AWS),Other,Other,Good,2025-05-30 19:00:00
+TRACERTE,mimos.my,"Bukit Jalil, MY",20.0,,Baseline,False,0,,Mbps / s,Baseline (AWS),Other,Other,Good,2025-05-30 19:15:00
+TRACERTE,arynews.tv,"Austin, US",7.0,,Baseline,False,0,,Mbps / s,Baseline (AWS),North America,Other,Good,2025-05-30 19:30:00
+TRACERTE,hurriyet.com.tr,"Istanbul, TR",17.0,,Baseline,False,0,,Mbps / s,Baseline (AWS),Other,Other,Good,2025-05-30 19:45:00
+TRACERTE,1.us.pool.ntp.org,"Fremont, US",11.0,,Baseline,False,0,,Mbps / s,Baseline (AWS),North America,Other,Good,2025-05-30 20:00:00
+TRACERTE,spiegel.de,"Frankfurt am Main, DE",14.0,,Baseline,False,0,,Mbps / s,Baseline (AWS),Europe,Other,Good,2025-05-30 20:15:00
+TRACERTE,lemond.fr,"Paris, FR",22.0,,Baseline,False,0,,Mbps / s,Baseline (AWS),Europe,Other,Good,2025-05-30 20:30:00
+TRACERTE,elpais.com,"San Jose, US",8.0,,Baseline,False,0,,Mbps / s,Baseline (AWS),North America,Other,Good,2025-05-30 20:45:00
+TRACERTE,aftonbladet.se,"Seattle, US",7.0,,Baseline,False,0,,Mbps / s,Baseline (AWS),North America,Other,Good,2025-05-30 21:00:00
+TRACERTE,wp.pl,"Gdynia, PL",17.0,,Baseline,False,0,,Mbps / s,Baseline (AWS),Other,Other,Good,2025-05-30 21:15:00
+TRACERTE,seznam.cz,"Prague, CZ",16.0,,Baseline,False,0,,Mbps / s,Baseline (AWS),Other,Other,Good,2025-05-30 21:30:00
+TRACERTE,cnn.gr,"Lelystad, NL",11.0,,Baseline,False,0,,Mbps / s,Baseline (AWS),Other,Other,Good,2025-05-30 21:45:00
+TRACERTE,amazon.com,"Ashburn, US",8.0,,Baseline,False,0,,Mbps / s,Baseline (AWS),North America,Other,Good,2025-05-30 22:00:00
+TRACERTE,google.com,"Sunnyvale, US",7.0,,Baseline,False,0,,Mbps / s,Baseline (AWS),North America,Other,Good,2025-05-30 22:15:00
+TRACERTE,cbc.ca,"San Jose, US",8.0,,Baseline,False,0,,Mbps / s,Baseline (AWS),North America,Other,Good,2025-05-30 22:30:00
+TRACERTE,1.cr.pool.ntp.org,"Tejar, CR",16.0,,Baseline,False,0,,Mbps / s,Baseline (AWS),Other,Other,Good,2025-05-30 22:45:00
+TRACERTE,3.us.pool.ntp.org,"Portland, US",11.0,,Baseline,False,0,,Mbps / s,Baseline (AWS),North America,Other,Good,2025-05-30 23:00:00
+TRACERTE,lapatria.bo,"Phoenix, US",17.0,,Baseline,False,0,,Mbps / s,Baseline (AWS),North America,Other,Good,2025-05-30 23:15:00
+TRACERTE,emol.com,"Santiago, CL",17.0,,Baseline,False,0,,Mbps / s,Baseline (AWS),Other,Other,Good,2025-05-30 23:30:00
+TRACERTE,za.yahoo.com,"San Jose, US",7.0,,Baseline,False,0,,Mbps / s,Baseline (AWS),North America,Other,Good,2025-05-30 23:45:00
+TRACERTE,bbc.co.uk,"San Francisco, US",5.0,,Baseline,False,0,,Mbps / s,Baseline (AWS),North America,Other,Good,2025-05-31 00:00:00
+TRACERTE,abc.net.au,"San Jose, US",8.0,,Baseline,False,0,,Mbps / s,Baseline (AWS),North America,Other,Good,2025-05-31 00:15:00
+TRACERTE,nzherald.co.nz,"San Francisco, US",7.0,,Baseline,False,0,,Mbps / s,Baseline (AWS),North America,Other,Good,2025-05-31 00:30:00
+TRACERTE,postcourier.com.pg,"San Jose, US",8.0,,Baseline,False,0,,Mbps / s,Baseline (AWS),North America,Other,Good,2025-05-31 00:45:00
+TRACERTE,samoaobserver.ws,"San Francisco, US",7.0,,Baseline,False,0,,Mbps / s,Baseline (AWS),North America,Other,Good,2025-05-31 01:00:00
+TRACERTE,uol.com.br,"São Paulo, BR",14.0,,Baseline,False,0,,Mbps / s,Baseline (AWS),South America,Other,Good,2025-05-31 01:15:00
+TRACERTE,rte.ie,"San Francisco, US",9.0,,Baseline,False,0,,Mbps / s,Baseline (AWS),North America,Other,Good,2025-05-31 01:30:00
+TRACERTE,news24.com,"San Francisco, US",7.0,,Baseline,False,0,,Mbps / s,Baseline (AWS),North America,Other,Good,2025-05-31 01:45:00
+HTTPS,https://angolacables.co.ao,"Luanda, AO",0.61,0.632,Baseline,False,0,,s,Baseline (AWS),Africa,Security,Good,2025-05-31 02:00:00
+HTTPS,https://jumia.com.ng,"San Francisco, US",0.305,0.392,Baseline,False,0,,s,Baseline (AWS),North America,Security,Good,2025-05-31 02:15:00
+HTTPS,https://egyptair.com,"Dublin, IE",0.351,0.269,Baseline,False,0,,s,Baseline (AWS),Other,Security,Good,2025-05-31 02:30:00
+HTTPS,https://safaricom.co.ke,"San Mateo, US",0.032,0.028,Baseline,False,0,,s,Baseline (AWS),North America,Security,Good,2025-05-31 02:45:00
+HTTPS,https://aliyun.com,"Shanghai, CN",0.48,0.379,Baseline,False,0,,s,Baseline (AWS),Asia,Security,Good,2025-05-31 03:00:00
+HTTPS,https://rakuten.co.jp,"Tokyo, JP",0.214,0.158,Baseline,False,0,,s,Baseline (AWS),Asia,Security,Good,2025-05-31 03:15:00
+HTTPS,https://naver.com,"Seoul, KR",0.277,0.204,Baseline,False,0,,s,Baseline (AWS),Other,Security,Good,2025-05-31 03:30:00
+HTTPS,https://thairath.co.th,"San Jose, US",0.033,0.029,Baseline,False,0,,s,Baseline (AWS),North America,Security,Good,2025-05-31 03:45:00
+HTTPS,https://vnexpress.net,"Hanoi, VN",0.553,0.54,Baseline,False,0,,s,Baseline (AWS),Other,Security,Good,2025-05-31 04:00:00
+HTTPS,https://moh.gov.my,"Kota Bharu, MY",1.419,1.679,Baseline,False,0,,s,Baseline (AWS),Other,Security,Good,2025-05-31 04:15:00
+HTTPS,https://arynews.tv,"Austin, US",0.126,0.145,Baseline,False,0,,s,Baseline (AWS),North America,Security,Good,2025-05-31 04:30:00
+HTTPS,https://hurriyet.com.tr,"Istanbul, TR",0.634,0.495,Baseline,False,0,,s,Baseline (AWS),Other,Security,Good,2025-05-31 04:45:00
+HTTPS,https://aljazeera.com,"Stockholm, SE",0.431,0.329,Baseline,False,0,,s,Baseline (AWS),Other,Security,Good,2025-05-31 05:00:00
+HTTPS,https://spiegel.de,"Frankfurt am Main, DE",0.335,0.247,Baseline,False,0,,s,Baseline (AWS),Europe,Security,Good,2025-05-31 05:15:00
+HTTPS,https://lemond.fr,"Paris, FR",0.292,0.215,Baseline,False,0,,s,Baseline (AWS),Europe,Security,Good,2025-05-31 05:30:00
+HTTPS,https://elpais.com,"San Jose, US",0.034,0.03,Baseline,False,0,,s,Baseline (AWS),North America,Security,Good,2025-05-31 05:45:00
+HTTPS,https://ansa.it,"Falkenstein, DE",0.32,0.235,Baseline,False,0,,s,Baseline (AWS),Europe,Security,Good,2025-05-31 06:00:00
+HTTPS,https://aftonbladet.se,"Seattle, US",0.385,0.359,Baseline,False,0,,s,Baseline (AWS),North America,Security,Good,2025-05-31 06:15:00
+HTTPS,https://wp.pl,"Gdynia, PL",0.344,0.252,Baseline,False,0,,s,Baseline (AWS),Other,Security,Good,2025-05-31 06:30:00
+HTTPS,https://seznam.cz,"Prague, CZ",0.325,0.238,Baseline,False,0,,s,Baseline (AWS),Other,Security,Good,2025-05-31 06:45:00
+HTTPS,https://cnn.gr,"Lelystad, NL",0.3,0.22,Baseline,False,0,,s,Baseline (AWS),Other,Security,Good,2025-05-31 07:00:00
+HTTPS,https://amazon.com,"Ashburn, US",0.133,0.099,Baseline,False,0,,s,Baseline (AWS),North America,Security,Good,2025-05-31 07:15:00
+HTTPS,https://google.com,"Mountain View, US",0.042,0.038,Baseline,False,0,,s,Baseline (AWS),North America,Security,Good,2025-05-31 07:30:00
+HTTPS,https://cbc.ca,"San Jose, US",0.04,0.037,Baseline,False,0,,s,Baseline (AWS),North America,Security,Good,2025-05-31 07:45:00
+HTTPS,https://nacion.com,"San José, CR",0.264,0.194,Baseline,False,0,,s,Baseline (AWS),Other,Security,Good,2025-05-31 08:00:00
+HTTPS,https://jamaicaobserver.com,"Boardman, US",0.195,0.158,Baseline,False,0,,s,Baseline (AWS),North America,Security,Good,2025-05-31 08:15:00
+HTTPS,https://lapatria.bo,"Phoenix, US",0.082,0.072,Baseline,False,0,,s,Baseline (AWS),North America,Security,Good,2025-05-31 08:30:00
+HTTPS,https://emol.com,"Santiago, CL",0.529,0.416,Baseline,False,0,,s,Baseline (AWS),Other,Security,Good,2025-05-31 08:45:00
+HTTPS,https://elobservador.com.uy,"San Jose, US",0.029,0.026,Baseline,False,0,,s,Baseline (AWS),North America,Security,Good,2025-05-31 09:00:00
+HTTPS,https://bbc.co.uk,"San Francisco, US",0.034,0.03,Baseline,False,0,,s,Baseline (AWS),North America,Security,Good,2025-05-31 09:15:00
+HTTPS,https://abc.net.au,"San Jose, US",0.033,0.029,Baseline,False,0,,s,Baseline (AWS),North America,Security,Good,2025-05-31 09:30:00
+HTTPS,https://nzherald.co.nz,"San Francisco, US",0.042,0.038,Baseline,False,0,,s,Baseline (AWS),North America,Security,Good,2025-05-31 09:45:00
+HTTPS,https://postcourier.com.pg,"San Jose, US",0.134,0.162,Baseline,False,0,,s,Baseline (AWS),North America,Security,Good,2025-05-31 10:00:00
+HTTPS,https://samoaobserver.ws,"San Francisco, US",0.044,0.041,Baseline,False,0,,s,Baseline (AWS),North America,Security,Good,2025-05-31 10:15:00
+HTTPS,https://uol.com.br,"São Paulo, BR",0.468,0.357,Baseline,False,0,,s,Baseline (AWS),South America,Security,Good,2025-05-31 10:30:00
+HTTPS,https://rte.ie,"San Francisco, US",0.049,0.047,Baseline,False,0,,s,Baseline (AWS),North America,Security,Good,2025-05-31 10:45:00
+HTTPS,https://news24.com,"San Francisco, US",0.043,0.039,Baseline,False,0,,s,Baseline (AWS),North America,Security,Good,2025-05-31 11:00:00
+UPLOAD,sse-test-bucket-af-south-1,"Cape Town, ZA",2621442.638,5242878.241,Baseline,False,0,,Mbps / s,Baseline (AWS),Africa,Throughput,Poor,2025-05-31 11:15:00
+UPLOAD,sse-test-bucket-ap-east-1,"Hong Kong, HK",2621442.241,5242878.506,Baseline,False,0,,Mbps / s,Baseline (AWS),Other,Throughput,Poor,2025-05-31 11:30:00
+UPLOAD,sse-test-bucket-ap-northeast-1,"Tokyo, JP",2621442.418,5242878.388,Baseline,False,0,,Mbps / s,Baseline (AWS),Asia,Throughput,Poor,2025-05-31 11:45:00
+UPLOAD,sse-test-bucket-ap-northeast-3,"Osaka, JP",2621442.426,5242878.383,Baseline,False,0,,Mbps / s,Baseline (AWS),Asia,Throughput,Poor,2025-05-31 12:00:00
+UPLOAD,sse-test-bucket-ap-south-1,"Mumbai, IN",2621442.359,5242878.428,Baseline,False,0,,Mbps / s,Baseline (AWS),Asia,Throughput,Poor,2025-05-31 12:15:00
+UPLOAD,sse-test-bucket-ap-south-2,"Hyderābād, IN",2621442.298,5242878.468,Baseline,False,0,,Mbps / s,Baseline (AWS),Asia,Throughput,Poor,2025-05-31 12:30:00
+UPLOAD,sse-test-bucket-ap-southeast-1,"Singapore, SG",2621442.247,5242878.502,Baseline,False,0,,Mbps / s,Baseline (AWS),Asia,Throughput,Poor,2025-05-31 12:45:00
+UPLOAD,sse-test-bucket-ap-southeast-2,"Sydney, AU",2621442.246,5242878.503,Baseline,False,0,,Mbps / s,Baseline (AWS),Oceania,Throughput,Poor,2025-05-31 13:00:00
+UPLOAD,sse-test-bucket-ap-southeast-4,"Melbourne, AU",2621442.238,5242878.508,Baseline,False,0,,Mbps / s,Baseline (AWS),Oceania,Throughput,Poor,2025-05-31 13:15:00
+UPLOAD,sse-test-bucket-ap-southeast-5,"Kuala Lumpur, MY",2621442.239,5242878.507,Baseline,False,0,,Mbps / s,Baseline (AWS),Other,Throughput,Poor,2025-05-31 13:30:00
+UPLOAD,sse-test-bucket-ca-central-1,"Montréal, CA",2621442.67,5242878.22,Baseline,False,0,,Mbps / s,Baseline (AWS),North America,Throughput,Poor,2025-05-31 13:45:00
+UPLOAD,sse-test-bucket-ca-west-1,"Calgary, CA",2621443.95,5242877.367,Baseline,False,0,,Mbps / s,Baseline (AWS),North America,Throughput,Poor,2025-05-31 14:00:00
+UPLOAD,sse-test-bucket-eu-central-1,"Frankfurt am Main, DE",2621442.242,5242878.506,Baseline,False,0,,Mbps / s,Baseline (AWS),Europe,Throughput,Poor,2025-05-31 14:15:00
+UPLOAD,sse-test-bucket-eu-central-2,"Zürich, CH",2621442.237,5242878.509,Baseline,False,0,,Mbps / s,Baseline (AWS),Other,Throughput,Poor,2025-05-31 14:30:00
+UPLOAD,sse-test-bucket-eu-north-1,"Stockholm, SE",2621442.244,5242878.504,Baseline,False,0,,Mbps / s,Baseline (AWS),Other,Throughput,Poor,2025-05-31 14:45:00
+UPLOAD,sse-test-bucket-eu-south-1,"Milan, IT",2621442.236,5242878.51,Baseline,False,0,,Mbps / s,Baseline (AWS),Other,Throughput,Poor,2025-05-31 15:00:00
+UPLOAD,sse-test-bucket-eu-west-1,"Dublin, IE",2621442.274,5242878.484,Baseline,False,0,,Mbps / s,Baseline (AWS),Other,Throughput,Poor,2025-05-31 15:15:00
+UPLOAD,sse-test-bucket-eu-west-2,"London, GB",2621442.237,5242878.509,Baseline,False,0,,Mbps / s,Baseline (AWS),Europe,Throughput,Poor,2025-05-31 15:30:00
+UPLOAD,sse-test-bucket-eu-west-3,"Paris, FR",2621442.24,5242878.507,Baseline,False,0,,Mbps / s,Baseline (AWS),Europe,Throughput,Poor,2025-05-31 15:45:00
+UPLOAD,sse-test-bucket-il-central-1,"Tel Aviv, IL",2621442.332,5242878.445,Baseline,False,0,,Mbps / s,Baseline (AWS),Other,Throughput,Poor,2025-05-31 16:00:00
+UPLOAD,sse-test-bucket-me-central-1,"Dubai, AE",2621442.615,5242878.257,Baseline,False,0,,Mbps / s,Baseline (AWS),Middle East,Throughput,Poor,2025-05-31 16:15:00
+UPLOAD,sse-test-bucket-me-south-1,"Dār Kulayb, BH",2621442.316,5242878.456,Baseline,False,0,,Mbps / s,Baseline (AWS),Other,Throughput,Poor,2025-05-31 16:30:00
+UPLOAD,sse-test-bucket-mx-central-1,"Santiago de Querétaro, MX",2621442.976,5242878.016,Baseline,False,0,,Mbps / s,Baseline (AWS),Other,Throughput,Poor,2025-05-31 16:45:00
+UPLOAD,sse-test-bucket-sa-east-1,"São Paulo, BR",2621442.241,5242878.506,Baseline,False,0,,Mbps / s,Baseline (AWS),South America,Throughput,Poor,2025-05-31 17:00:00
+UPLOAD,sse-test-bucket-us-east-1,"Ashburn, US",2621443.238,5242877.841,Baseline,False,0,,Mbps / s,Baseline (AWS),North America,Throughput,Poor,2025-05-31 17:15:00
+UPLOAD,sse-test-bucket-us-west-1,"San Jose, US",2621448.642,5242874.239,Baseline,False,0,,Mbps / s,Baseline (AWS),North America,Throughput,Poor,2025-05-31 17:30:00
+DOWNLOAD,sse-test-bucket-af-south-1,"Cape Town, ZA",1747631.092,4280791.426,Baseline,False,0,,Mbps / s,Baseline (AWS),Africa,Throughput,Poor,2025-05-31 17:45:00
+DOWNLOAD,sse-test-bucket-ap-east-1,"Hong Kong, HK",1747628.164,4280792.861,Baseline,False,0,,Mbps / s,Baseline (AWS),Other,Throughput,Poor,2025-05-31 18:00:00
+DOWNLOAD,sse-test-bucket-ap-northeast-1,"Tokyo, JP",1747628.205,4280792.841,Baseline,False,0,,Mbps / s,Baseline (AWS),Asia,Throughput,Poor,2025-05-31 18:15:00
+DOWNLOAD,sse-test-bucket-ap-northeast-3,"Osaka, JP",1747628.21,4280792.838,Baseline,False,0,,Mbps / s,Baseline (AWS),Asia,Throughput,Poor,2025-05-31 18:30:00
+DOWNLOAD,sse-test-bucket-ap-south-1,"Mumbai, IN",1747630.84,4280791.55,Baseline,False,0,,Mbps / s,Baseline (AWS),Asia,Throughput,Poor,2025-05-31 18:45:00
+DOWNLOAD,sse-test-bucket-ap-south-2,"Hyderābād, IN",1747628.235,4280792.826,Baseline,False,0,,Mbps / s,Baseline (AWS),Asia,Throughput,Poor,2025-05-31 19:00:00
+DOWNLOAD,sse-test-bucket-ap-southeast-1,"Singapore, SG",1747628.159,4280792.863,Baseline,False,0,,Mbps / s,Baseline (AWS),Asia,Throughput,Poor,2025-05-31 19:15:00
+DOWNLOAD,sse-test-bucket-ap-southeast-2,"Sydney, AU",1747628.17,4280792.858,Baseline,False,0,,Mbps / s,Baseline (AWS),Oceania,Throughput,Poor,2025-05-31 19:30:00
+DOWNLOAD,sse-test-bucket-ap-southeast-4,"Melbourne, AU",1747628.158,4280792.864,Baseline,False,0,,Mbps / s,Baseline (AWS),Oceania,Throughput,Poor,2025-05-31 19:45:00
+DOWNLOAD,sse-test-bucket-ap-southeast-5,"Kuala Lumpur, MY",1747628.172,4280792.857,Baseline,False,0,,Mbps / s,Baseline (AWS),Other,Throughput,Poor,2025-05-31 20:00:00
+DOWNLOAD,sse-test-bucket-ca-central-1,"Montréal, CA",1747628.302,4280792.793,Baseline,False,0,,Mbps / s,Baseline (AWS),North America,Throughput,Poor,2025-05-31 20:15:00
+DOWNLOAD,sse-test-bucket-ca-west-1,"Calgary, CA",1747628.64,4280792.627,Baseline,False,0,,Mbps / s,Baseline (AWS),North America,Throughput,Poor,2025-05-31 20:30:00
+DOWNLOAD,sse-test-bucket-eu-central-1,"Frankfurt am Main, DE",1747628.161,4280792.862,Baseline,False,0,,Mbps / s,Baseline (AWS),Europe,Throughput,Poor,2025-05-31 20:45:00
+DOWNLOAD,sse-test-bucket-eu-central-2,"Zürich, CH",1747628.159,4280792.863,Baseline,False,0,,Mbps / s,Baseline (AWS),Other,Throughput,Poor,2025-05-31 21:00:00
+DOWNLOAD,sse-test-bucket-eu-north-1,"Stockholm, SE",1747628.159,4280792.863,Baseline,False,0,,Mbps / s,Baseline (AWS),Other,Throughput,Poor,2025-05-31 21:15:00
+DOWNLOAD,sse-test-bucket-eu-south-1,"Milan, IT",1747628.158,4280792.864,Baseline,False,0,,Mbps / s,Baseline (AWS),Other,Throughput,Poor,2025-05-31 21:30:00
+DOWNLOAD,sse-test-bucket-eu-west-1,"Dublin, IE",1747628.171,4280792.857,Baseline,False,0,,Mbps / s,Baseline (AWS),Other,Throughput,Poor,2025-05-31 21:45:00
+DOWNLOAD,sse-test-bucket-eu-west-2,"London, GB",1747628.159,4280792.863,Baseline,False,0,,Mbps / s,Baseline (AWS),Europe,Throughput,Poor,2025-05-31 22:00:00
+DOWNLOAD,sse-test-bucket-eu-west-3,"Paris, FR",1747628.158,4280792.864,Baseline,False,0,,Mbps / s,Baseline (AWS),Europe,Throughput,Poor,2025-05-31 22:15:00
+DOWNLOAD,sse-test-bucket-il-central-1,"Tel Aviv, IL",1747628.216,4280792.835,Baseline,False,0,,Mbps / s,Baseline (AWS),Other,Throughput,Poor,2025-05-31 22:30:00
+DOWNLOAD,sse-test-bucket-me-central-1,"Dubai, AE",1747630.956,4280791.493,Baseline,False,0,,Mbps / s,Baseline (AWS),Middle East,Throughput,Poor,2025-05-31 22:45:00
+DOWNLOAD,sse-test-bucket-me-south-1,"Dār Kulayb, BH",1747630.792,4280791.573,Baseline,False,0,,Mbps / s,Baseline (AWS),Other,Throughput,Poor,2025-05-31 23:00:00
+DOWNLOAD,sse-test-bucket-mx-central-1,"Santiago de Querétaro, MX",1747628.38,4280792.755,Baseline,False,0,,Mbps / s,Baseline (AWS),Other,Throughput,Poor,2025-05-31 23:15:00
+DOWNLOAD,sse-test-bucket-sa-east-1,"São Paulo, BR",1747628.17,4280792.858,Baseline,False,0,,Mbps / s,Baseline (AWS),South America,Throughput,Poor,2025-05-31 23:30:00
+DOWNLOAD,sse-test-bucket-us-east-1,"Ashburn, US",1747628.44,4280792.725,Baseline,False,0,,Mbps / s,Baseline (AWS),North America,Throughput,Poor,2025-05-31 23:45:00
+DOWNLOAD,sse-test-bucket-us-west-1,"San Jose, US",1747629.375,4280792.267,Baseline,False,0,,Mbps / s,Baseline (AWS),North America,Throughput,Poor,2025-06-01 00:00:00
+IPERF3-TCP,13.247.37.65,"Cape Town, ZA",27170262.872,54340411.418,Baseline,False,0,,Mbps / s,Baseline (AWS),Africa,Other,Poor,2025-06-01 00:15:00
+IPERF3-UDP-UL-100M,13.247.37.65,"Cape Town, ZA",24997712.8,55896529.201,Baseline,False,0,,Mbps / s,Baseline (AWS),Africa,Other,Poor,2025-06-01 00:30:00
+IPERF3-UDP-DL-100M,13.247.37.65,"Cape Town, ZA",25815305.06,57724577.237,Baseline,False,0,,Mbps / s,Baseline (AWS),Africa,Other,Poor,2025-06-01 00:45:00
+IPERF3-UDP-UL-500M,13.247.37.65,"Cape Town, ZA",124999058.562,279480017.919,Baseline,False,0,,Mbps / s,Baseline (AWS),Africa,Other,Poor,2025-06-01 01:00:00
+IPERF3-UDP-DL-500M,13.247.37.65,"Cape Town, ZA",129090206.474,288653282.639,Baseline,False,0,,Mbps / s,Baseline (AWS),Africa,Other,Poor,2025-06-01 01:15:00
+IPERF3-UDP-UL-1000M,13.247.37.65,"Cape Town, ZA",250043885.981,558940940.615,Baseline,False,0,,Mbps / s,Baseline (AWS),Africa,Other,Poor,2025-06-01 01:30:00
+IPERF3-UDP-DL-1000M,13.247.37.65,"Cape Town, ZA",251289106.363,561897093.332,Baseline,False,0,,Mbps / s,Baseline (AWS),Africa,Other,Poor,2025-06-01 01:45:00
+IPERF3-UDP-UL-5000M,13.247.37.65,"Cape Town, ZA",1215376899.145,2716783598.545,Baseline,False,0,,Mbps / s,Baseline (AWS),Africa,Other,Poor,2025-06-01 02:00:00
+IPERF3-UDP-DL-5000M,13.247.37.65,"Cape Town, ZA",783569093.518,1752107781.397,Baseline,False,0,,Mbps / s,Baseline (AWS),Africa,Other,Poor,2025-06-01 02:15:00
+IPERF3-TCP,18.182.224.145,"Tokyo, JP",82792259.498,165584168.335,Baseline,False,0,,Mbps / s,Baseline (AWS),Asia,Other,Poor,2025-06-01 02:30:00
+IPERF3-UDP-UL-100M,18.182.224.145,"Tokyo, JP",24998002.399,55897176.767,Baseline,False,0,,Mbps / s,Baseline (AWS),Asia,Other,Poor,2025-06-01 02:45:00
+IPERF3-UDP-DL-100M,18.182.224.145,"Tokyo, JP",25362944.851,56713083.06,Baseline,False,0,,Mbps / s,Baseline (AWS),Asia,Other,Poor,2025-06-01 03:00:00
+IPERF3-UDP-UL-500M,18.182.224.145,"Tokyo, JP",124990353.071,279485693.168,Baseline,False,0,,Mbps / s,Baseline (AWS),Asia,Other,Poor,2025-06-01 03:15:00
+IPERF3-UDP-DL-500M,18.182.224.145,"Tokyo, JP",126626025.687,283143135.3,Baseline,False,0,,Mbps / s,Baseline (AWS),Asia,Other,Poor,2025-06-01 03:30:00
+IPERF3-UDP-UL-1000M,18.182.224.145,"Tokyo, JP",250047458.663,558942182.532,Baseline,False,0,,Mbps / s,Baseline (AWS),Asia,Other,Poor,2025-06-01 03:45:00
+IPERF3-UDP-DL-1000M,18.182.224.145,"Tokyo, JP",253631600.066,567135294.043,Baseline,False,0,,Mbps / s,Baseline (AWS),Asia,Other,Poor,2025-06-01 04:00:00
+IPERF3-UDP-UL-5000M,18.182.224.145,"Tokyo, JP",801802135.023,1792440705.889,Baseline,False,0,,Mbps / s,Baseline (AWS),Asia,Other,Poor,2025-06-01 04:15:00
+IPERF3-UDP-DL-5000M,18.182.224.145,"Tokyo, JP",956232310.782,2138191423.358,Baseline,False,0,,Mbps / s,Baseline (AWS),Asia,Other,Poor,2025-06-01 04:30:00
+IPERF3-TCP,54.179.99.200,"Singapore, SG",49637450.762,99274691.492,Baseline,False,0,,Mbps / s,Baseline (AWS),Asia,Other,Poor,2025-06-01 04:45:00
+IPERF3-UDP-UL-100M,54.179.99.200,"Singapore, SG",24998002.399,55897176.767,Baseline,False,0,,Mbps / s,Baseline (AWS),Asia,Other,Poor,2025-06-01 05:00:00
+IPERF3-UDP-DL-100M,54.179.99.200,"Singapore, SG",25515565.656,57054349.069,Baseline,False,0,,Mbps / s,Baseline (AWS),Asia,Other,Poor,2025-06-01 05:15:00
+IPERF3-UDP-UL-500M,54.179.99.200,"Singapore, SG",124989722.39,279485236.272,Baseline,False,0,,Mbps / s,Baseline (AWS),Asia,Other,Poor,2025-06-01 05:30:00
+IPERF3-UDP-DL-500M,54.179.99.200,"Singapore, SG",126944276.975,283854820.234,Baseline,False,0,,Mbps / s,Baseline (AWS),Asia,Other,Poor,2025-06-01 05:45:00
+IPERF3-UDP-UL-1000M,54.179.99.200,"Singapore, SG",250017540.295,558956466.874,Baseline,False,0,,Mbps / s,Baseline (AWS),Asia,Other,Poor,2025-06-01 06:00:00
+IPERF3-UDP-DL-1000M,54.179.99.200,"Singapore, SG",255234903.264,570720172.09,Baseline,False,0,,Mbps / s,Baseline (AWS),Asia,Other,Poor,2025-06-01 06:15:00
+IPERF3-UDP-UL-5000M,54.179.99.200,"Singapore, SG",1215518613.91,2716778921.392,Baseline,False,0,,Mbps / s,Baseline (AWS),Asia,Other,Poor,2025-06-01 06:30:00
+IPERF3-UDP-DL-5000M,54.179.99.200,"Singapore, SG",733800518.232,1640816857.61,Baseline,False,0,,Mbps / s,Baseline (AWS),Asia,Other,Poor,2025-06-01 06:45:00
+IPERF3-TCP,43.204.17.203,"Mumbai, IN",32762843.838,65525549.442,Baseline,False,0,,Mbps / s,Baseline (AWS),Asia,Other,Poor,2025-06-01 07:00:00
+IPERF3-UDP-UL-100M,43.204.17.203,"Mumbai, IN",24998002.404,55897176.764,Baseline,False,0,,Mbps / s,Baseline (AWS),Asia,Other,Poor,2025-06-01 07:15:00
+IPERF3-UDP-DL-100M,43.204.17.203,"Mumbai, IN",25666159.258,57391082.122,Baseline,False,0,,Mbps / s,Baseline (AWS),Asia,Other,Poor,2025-06-01 07:30:00
+IPERF3-UDP-UL-500M,43.204.17.203,"Mumbai, IN",124991208.737,279484405.397,Baseline,False,0,,Mbps / s,Baseline (AWS),Asia,Other,Poor,2025-06-01 07:45:00
+IPERF3-UDP-DL-500M,43.204.17.203,"Mumbai, IN",128327645.661,286948267.844,Baseline,False,0,,Mbps / s,Baseline (AWS),Asia,Other,Poor,2025-06-01 08:00:00
+IPERF3-UDP-UL-1000M,43.204.17.203,"Mumbai, IN",249985736.478,558972621.649,Baseline,False,0,,Mbps / s,Baseline (AWS),Asia,Other,Poor,2025-06-01 08:15:00
+IPERF3-UDP-DL-1000M,43.204.17.203,"Mumbai, IN",256586420.87,573742384.769,Baseline,False,0,,Mbps / s,Baseline (AWS),Asia,Other,Poor,2025-06-01 08:30:00
+IPERF3-UDP-UL-5000M,43.204.17.203,"Mumbai, IN",1215451495.662,2716724948.587,Baseline,False,0,,Mbps / s,Baseline (AWS),Asia,Other,Poor,2025-06-01 08:45:00
+IPERF3-UDP-DL-5000M,43.204.17.203,"Mumbai, IN",762293392.779,1704531292.159,Baseline,False,0,,Mbps / s,Baseline (AWS),Asia,Other,Poor,2025-06-01 09:00:00
+IPERF3-TCP,13.237.82.59,"Sydney, AU",62840671.863,125681077.425,Baseline,False,0,,Mbps / s,Baseline (AWS),Oceania,Other,Poor,2025-06-01 09:15:00
+IPERF3-UDP-UL-100M,13.237.82.59,"Sydney, AU",24998002.4,55897176.766,Baseline,False,0,,Mbps / s,Baseline (AWS),Oceania,Other,Poor,2025-06-01 09:30:00
+IPERF3-UDP-DL-100M,13.237.82.59,"Sydney, AU",25445484.256,56897637.263,Baseline,False,0,,Mbps / s,Baseline (AWS),Oceania,Other,Poor,2025-06-01 09:45:00
+IPERF3-UDP-UL-500M,13.237.82.59,"Sydney, AU",124991380.977,279484309.116,Baseline,False,0,,Mbps / s,Baseline (AWS),Oceania,Other,Poor,2025-06-01 10:00:00
+IPERF3-UDP-DL-500M,13.237.82.59,"Sydney, AU",128553370.685,287452650.417,Baseline,False,0,,Mbps / s,Baseline (AWS),Oceania,Other,Poor,2025-06-01 10:15:00
+IPERF3-UDP-UL-1000M,13.237.82.59,"Sydney, AU",249999914.554,558963887.793,Baseline,False,0,,Mbps / s,Baseline (AWS),Oceania,Other,Poor,2025-06-01 10:30:00
+IPERF3-UDP-DL-1000M,13.237.82.59,"Sydney, AU",254433898.845,568929799.651,Baseline,False,0,,Mbps / s,Baseline (AWS),Oceania,Other,Poor,2025-06-01 10:45:00
+IPERF3-UDP-UL-5000M,13.237.82.59,"Sydney, AU",1215561618.3,2716758960.759,Baseline,False,0,,Mbps / s,Baseline (AWS),Oceania,Other,Poor,2025-06-01 11:00:00
+IPERF3-UDP-DL-5000M,13.237.82.59,"Sydney, AU",833081143.903,1862819262.224,Baseline,False,0,,Mbps / s,Baseline (AWS),Oceania,Other,Poor,2025-06-01 11:15:00
+IPERF3-TCP,63.177.5.144,"Frankfurt am Main, DE",57437277.213,114874311.192,Baseline,False,0,,Mbps / s,Baseline (AWS),Europe,Other,Poor,2025-06-01 11:30:00
+IPERF3-UDP-UL-100M,63.177.5.144,"Frankfurt am Main, DE",24998002.4,55897176.767,Baseline,False,0,,Mbps / s,Baseline (AWS),Europe,Other,Poor,2025-06-01 11:45:00
+IPERF3-UDP-DL-100M,63.177.5.144,"Frankfurt am Main, DE",25462855.052,56936494.09,Baseline,False,0,,Mbps / s,Baseline (AWS),Europe,Other,Poor,2025-06-01 12:00:00
+IPERF3-UDP-UL-500M,63.177.5.144,"Frankfurt am Main, DE",124991718.655,279484120.359,Baseline,False,0,,Mbps / s,Baseline (AWS),Europe,Other,Poor,2025-06-01 12:15:00
+IPERF3-UDP-DL-500M,63.177.5.144,"Frankfurt am Main, DE",127331128.462,284719997.706,Baseline,False,0,,Mbps / s,Baseline (AWS),Europe,Other,Poor,2025-06-01 12:30:00
+IPERF3-UDP-UL-1000M,63.177.5.144,"Frankfurt am Main, DE",249994184.428,558968709.124,Baseline,False,0,,Mbps / s,Baseline (AWS),Europe,Other,Poor,2025-06-01 12:45:00
+IPERF3-UDP-DL-1000M,63.177.5.144,"Frankfurt am Main, DE",254816726.669,569785084.571,Baseline,False,0,,Mbps / s,Baseline (AWS),Europe,Other,Poor,2025-06-01 13:00:00
+IPERF3-UDP-UL-5000M,63.177.5.144,"Frankfurt am Main, DE",1215222850.666,2717064715.184,Baseline,False,0,,Mbps / s,Baseline (AWS),Europe,Other,Poor,2025-06-01 13:15:00
+IPERF3-UDP-DL-5000M,63.177.5.144,"Frankfurt am Main, DE",458774367.213,1025840445.871,Baseline,False,0,,Mbps / s,Baseline (AWS),Europe,Other,Poor,2025-06-01 13:30:00
+IPERF3-TCP,63.34.149.41,"Dublin, IE",63265660.455,126531053.03,Baseline,False,0,,Mbps / s,Baseline (AWS),Other,Other,Poor,2025-06-01 13:45:00
+IPERF3-UDP-UL-100M,63.34.149.41,"Dublin, IE",24997712.799,55896529.201,Baseline,False,0,,Mbps / s,Baseline (AWS),Other,Other,Poor,2025-06-01 14:00:00
+IPERF3-UDP-DL-100M,63.34.149.41,"Dublin, IE",25417969.053,56836120.352,Baseline,False,0,,Mbps / s,Baseline (AWS),Other,Other,Poor,2025-06-01 14:15:00
+IPERF3-UDP-UL-500M,63.34.149.41,"Dublin, IE",124990677.413,279484702.405,Baseline,False,0,,Mbps / s,Baseline (AWS),Other,Other,Poor,2025-06-01 14:30:00
+IPERF3-UDP-DL-500M,63.34.149.41,"Dublin, IE",127153366.875,284322363.097,Baseline,False,0,,Mbps / s,Baseline (AWS),Other,Other,Poor,2025-06-01 14:45:00
+IPERF3-UDP-UL-1000M,63.34.149.41,"Dublin, IE",249984075.086,558973550.348,Baseline,False,0,,Mbps / s,Baseline (AWS),Other,Other,Poor,2025-06-01 15:00:00
+IPERF3-UDP-DL-1000M,63.34.149.41,"Dublin, IE",254107994.456,568200537.603,Baseline,False,0,,Mbps / s,Baseline (AWS),Other,Other,Poor,2025-06-01 15:15:00
+IPERF3-UDP-UL-5000M,63.34.149.41,"Dublin, IE",1215109953.176,2717054968.673,Baseline,False,0,,Mbps / s,Baseline (AWS),Other,Other,Poor,2025-06-01 15:30:00
+IPERF3-UDP-DL-5000M,63.34.149.41,"Dublin, IE",761889702.086,1703626151.242,Baseline,False,0,,Mbps / s,Baseline (AWS),Other,Other,Poor,2025-06-01 15:45:00
+IPERF3-TCP,54.232.52.243,"São Paulo, BR",47546407.412,95092613.725,Baseline,False,0,,Mbps / s,Baseline (AWS),South America,Other,Poor,2025-06-01 16:00:00
+IPERF3-UDP-UL-100M,54.232.52.243,"São Paulo, BR",24998002.399,55897176.767,Baseline,False,0,,Mbps / s,Baseline (AWS),South America,Other,Poor,2025-06-01 16:15:00
+IPERF3-UDP-DL-100M,54.232.52.243,"São Paulo, BR",25537870.058,57104208.688,Baseline,False,0,,Mbps / s,Baseline (AWS),South America,Other,Poor,2025-06-01 16:30:00
+IPERF3-UDP-UL-500M,54.232.52.243,"São Paulo, BR",124991508.539,279485047.259,Baseline,False,0,,Mbps / s,Baseline (AWS),South America,Other,Poor,2025-06-01 16:45:00
+IPERF3-UDP-DL-500M,54.232.52.243,"São Paulo, BR",128023606.789,286268301.302,Baseline,False,0,,Mbps / s,Baseline (AWS),South America,Other,Poor,2025-06-01 17:00:00
+IPERF3-UDP-UL-1000M,54.232.52.243,"São Paulo, BR",249999523.041,558965725.421,Baseline,False,0,,Mbps / s,Baseline (AWS),South America,Other,Poor,2025-06-01 17:15:00
+IPERF3-UDP-DL-1000M,54.232.52.243,"São Paulo, BR",255357980.67,570995388.787,Baseline,False,0,,Mbps / s,Baseline (AWS),South America,Other,Poor,2025-06-01 17:30:00
+IPERF3-UDP-UL-5000M,54.232.52.243,"São Paulo, BR",1215136700.446,2716987403.883,Baseline,False,0,,Mbps / s,Baseline (AWS),South America,Other,Poor,2025-06-01 17:45:00
+IPERF3-UDP-DL-5000M,54.232.52.243,"São Paulo, BR",427517904.739,955955163.524,Baseline,False,0,,Mbps / s,Baseline (AWS),South America,Other,Poor,2025-06-01 18:00:00
+IPERF3-TCP,54.237.15.83,"Ashburn, US",156028278.93,312055894.047,Baseline,False,0,,Mbps / s,Baseline (AWS),North America,Other,Poor,2025-06-01 18:15:00
+IPERF3-UDP-UL-100M,54.237.15.83,"Ashburn, US",24998002.399,55897176.767,Baseline,False,0,,Mbps / s,Baseline (AWS),North America,Other,Poor,2025-06-01 18:30:00
+IPERF3-UDP-DL-100M,54.237.15.83,"Ashburn, US",25243632.862,56446284.367,Baseline,False,0,,Mbps / s,Baseline (AWS),North America,Other,Poor,2025-06-01 18:45:00
+IPERF3-UDP-UL-500M,54.237.15.83,"Ashburn, US",124992677.277,279483584.512,Baseline,False,0,,Mbps / s,Baseline (AWS),North America,Other,Poor,2025-06-01 19:00:00
+IPERF3-UDP-DL-500M,54.237.15.83,"Ashburn, US",126189277.053,282166624.644,Baseline,False,0,,Mbps / s,Baseline (AWS),North America,Other,Poor,2025-06-01 19:15:00
+IPERF3-UDP-UL-1000M,54.237.15.83,"Ashburn, US",250018034.819,558954571.837,Baseline,False,0,,Mbps / s,Baseline (AWS),North America,Other,Poor,2025-06-01 19:30:00
+IPERF3-UDP-DL-1000M,54.237.15.83,"Ashburn, US",252435931.073,564461446.997,Baseline,False,0,,Mbps / s,Baseline (AWS),North America,Other,Poor,2025-06-01 19:45:00
+IPERF3-UDP-UL-5000M,54.237.15.83,"Ashburn, US",1215148716.147,2717076201.329,Baseline,False,0,,Mbps / s,Baseline (AWS),North America,Other,Poor,2025-06-01 20:00:00
+IPERF3-UDP-DL-5000M,54.237.15.83,"Ashburn, US",765215536.368,1711062753.043,Baseline,False,0,,Mbps / s,Baseline (AWS),North America,Other,Poor,2025-06-01 20:15:00
+IPERF3-TCP,52.52.79.177,"San Jose, US",1495543280.498,2991079775.669,Baseline,False,0,,Mbps / s,Baseline (AWS),North America,Other,Poor,2025-06-01 20:30:00
+IPERF3-UDP-UL-100M,52.52.79.177,"San Jose, US",24998002.399,55897176.767,Baseline,False,0,,Mbps / s,Baseline (AWS),North America,Other,Poor,2025-06-01 20:45:00
+IPERF3-UDP-DL-100M,52.52.79.177,"San Jose, US",25100570.66,56126387.005,Baseline,False,0,,Mbps / s,Baseline (AWS),North America,Other,Poor,2025-06-01 21:00:00
+IPERF3-UDP-UL-500M,52.52.79.177,"San Jose, US",124991516.608,279486661.651,Baseline,False,0,,Mbps / s,Baseline (AWS),North America,Other,Poor,2025-06-01 21:15:00
+IPERF3-UDP-DL-500M,52.52.79.177,"San Jose, US",125475707.026,280571021.334,Baseline,False,0,,Mbps / s,Baseline (AWS),North America,Other,Poor,2025-06-01 21:30:00
+IPERF3-UDP-UL-1000M,52.52.79.177,"San Jose, US",250013912.742,558956874.958,Baseline,False,0,,Mbps / s,Baseline (AWS),North America,Other,Poor,2025-06-01 21:45:00
+IPERF3-UDP-DL-1000M,52.52.79.177,"San Jose, US",233091079.397,521205465.345,Baseline,False,0,,Mbps / s,Baseline (AWS),North America,Other,Poor,2025-06-01 22:00:00
+IPERF3-UDP-UL-5000M,52.52.79.177,"San Jose, US",795337207.679,1777531207.641,Baseline,False,0,,Mbps / s,Baseline (AWS),North America,Other,Poor,2025-06-01 22:15:00
+IPERF3-UDP-DL-5000M,52.52.79.177,"San Jose, US",449458825.493,1005017486.387,Baseline,False,0,,Mbps / s,Baseline (AWS),North America,Other,Poor,2025-06-01 22:30:00
+PING,angolacables.co.ao,"Luanda, AO",282.457,256.85,Cloudflare WARP,False,0,282.457,ms,Cloudflare WARP,Africa,Latency,Average,2025-06-01 22:45:00
+PING,jumia.com.ng,"San Francisco, US",3.155,2.726,Cloudflare WARP,False,0,3.155,ms,Cloudflare WARP,North America,Latency,Good,2025-06-01 23:00:00
+PING,0.ie.pool.ntp.org,"Dublin, IE",100.0,,Cloudflare WARP,False,0,100.0,ms,Cloudflare WARP,Other,Latency,Average,2025-06-01 23:15:00
+PING,safaricom.co.ke,"San Mateo, US",3.628,3.05,Cloudflare WARP,False,0,3.628,ms,Cloudflare WARP,North America,Latency,Good,2025-06-01 23:30:00
+PING,aliyun.com,"Shanghai, CN",101.931,92.419,Cloudflare WARP,False,0,101.931,ms,Cloudflare WARP,Asia,Latency,Average,2025-06-01 23:45:00
+PING,rakuten.co.jp,"Tokyo, JP",66.129,59.546,Cloudflare WARP,False,0,66.129,ms,Cloudflare WARP,Asia,Latency,Good,2025-06-02 00:00:00
+PING,2.kr.pool.ntp.org,"Seoul, KR",87.525,79.045,Cloudflare WARP,False,0,87.525,ms,Cloudflare WARP,Other,Latency,Good,2025-06-02 00:15:00
+PING,thairath.co.th,"San Jose, US",3.353,2.797,Cloudflare WARP,False,0,3.353,ms,Cloudflare WARP,North America,Latency,Good,2025-06-02 00:30:00
+PING,1.vn.pool.ntp.org,"Hanoi, VN",128.071,116.285,Cloudflare WARP,False,0,128.071,ms,Cloudflare WARP,Other,Latency,Average,2025-06-02 00:45:00
+PING,mimos.my,"Bukit Jalil, MY",106.853,96.851,Cloudflare WARP,False,0,106.853,ms,Cloudflare WARP,Other,Latency,Average,2025-06-02 01:00:00
+PING,arynews.tv,"Austin, US",3.354,3.025,Cloudflare WARP,False,0,3.354,ms,Cloudflare WARP,North America,Latency,Good,2025-06-02 01:15:00
+PING,hurriyet.com.tr,"Istanbul, TR",118.759,107.668,Cloudflare WARP,False,0,118.759,ms,Cloudflare WARP,Other,Latency,Average,2025-06-02 01:30:00
+PING,1.us.pool.ntp.org,"Washington, US",43.159,38.682,Cloudflare WARP,False,0,43.159,ms,Cloudflare WARP,North America,Latency,Good,2025-06-02 01:45:00
+PING,spiegel.de,"Frankfurt am Main, DE",101.125,91.824,Cloudflare WARP,False,0,101.125,ms,Cloudflare WARP,Europe,Latency,Average,2025-06-02 02:00:00
+PING,lemond.fr,"Paris, FR",92.382,83.67,Cloudflare WARP,False,0,92.382,ms,Cloudflare WARP,Europe,Latency,Good,2025-06-02 02:15:00
+PING,elpais.com,"San Jose, US",4.436,3.778,Cloudflare WARP,False,0,4.436,ms,Cloudflare WARP,North America,Latency,Good,2025-06-02 02:30:00
+PING,aftonbladet.se,"Seattle, US",3.31,2.747,Cloudflare WARP,False,0,3.31,ms,Cloudflare WARP,North America,Latency,Good,2025-06-02 02:45:00
+PING,wp.pl,"Gdynia, PL",103.794,93.895,Cloudflare WARP,False,0,103.794,ms,Cloudflare WARP,Other,Latency,Average,2025-06-02 03:00:00
+PING,seznam.cz,"Prague, CZ",100.999,91.509,Cloudflare WARP,False,0,100.999,ms,Cloudflare WARP,Other,Latency,Average,2025-06-02 03:15:00
+PING,cnn.gr,"Lelystad, NL",92.715,83.952,Cloudflare WARP,False,0,92.715,ms,Cloudflare WARP,Other,Latency,Good,2025-06-02 03:30:00
+PING,amazon.com,"Ashburn, US",46.895,42.264,Cloudflare WARP,False,0,46.895,ms,Cloudflare WARP,North America,Latency,Good,2025-06-02 03:45:00
+PING,google.com,"Mountain View, US",3.511,2.889,Cloudflare WARP,False,0,3.511,ms,Cloudflare WARP,North America,Latency,Good,2025-06-02 04:00:00
+PING,cbc.ca,"Santa Clara, US",3.381,2.797,Cloudflare WARP,False,0,3.381,ms,Cloudflare WARP,North America,Latency,Good,2025-06-02 04:15:00
+PING,1.cr.pool.ntp.org,"San Ramón, CR",78.356,70.736,Cloudflare WARP,False,0,78.356,ms,Cloudflare WARP,Other,Latency,Good,2025-06-02 04:30:00
+PING,3.us.pool.ntp.org,"San Jose, US",2.947,2.436,Cloudflare WARP,False,0,2.947,ms,Cloudflare WARP,North America,Latency,Good,2025-06-02 04:45:00
+PING,lapatria.bo,"Phoenix, US",14.435,12.738,Cloudflare WARP,False,0,14.435,ms,Cloudflare WARP,North America,Latency,Good,2025-06-02 05:00:00
+PING,emol.com,"Santiago, CL",98.778,89.423,Cloudflare WARP,False,0,98.778,ms,Cloudflare WARP,Other,Latency,Good,2025-06-02 05:15:00
+PING,za.yahoo.com,"San Jose, US",4.484,3.701,Cloudflare WARP,False,0,4.484,ms,Cloudflare WARP,North America,Latency,Good,2025-06-02 05:30:00
+PING,bbc.co.uk,"San Francisco, US",3.471,2.894,Cloudflare WARP,False,0,3.471,ms,Cloudflare WARP,North America,Latency,Good,2025-06-02 05:45:00
+PING,abc.net.au,"San Jose, US",3.106,2.561,Cloudflare WARP,False,0,3.106,ms,Cloudflare WARP,North America,Latency,Good,2025-06-02 06:00:00
+PING,nzherald.co.nz,"San Francisco, US",2.78,2.384,Cloudflare WARP,False,0,2.78,ms,Cloudflare WARP,North America,Latency,Good,2025-06-02 06:15:00
+PING,postcourier.com.pg,"Santa Clara, US",3.435,2.85,Cloudflare WARP,False,0,3.435,ms,Cloudflare WARP,North America,Latency,Good,2025-06-02 06:30:00
+PING,samoaobserver.ws,"San Francisco, US",2.99,2.604,Cloudflare WARP,False,0,2.99,ms,Cloudflare WARP,North America,Latency,Good,2025-06-02 06:45:00
+PING,uol.com.br,"São Paulo, BR",107.858,97.755,Cloudflare WARP,False,0,107.858,ms,Cloudflare WARP,South America,Latency,Average,2025-06-02 07:00:00
+PING,rte.ie,"San Francisco, US",2.866,2.49,Cloudflare WARP,False,0,2.866,ms,Cloudflare WARP,North America,Latency,Good,2025-06-02 07:15:00
+PING,news24.com,"San Francisco, US",3.236,2.909,Cloudflare WARP,False,0,3.236,ms,Cloudflare WARP,North America,Latency,Good,2025-06-02 07:30:00
+TRACERTE,angolacables.co.ao,"Luanda, AO",24.0,,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,Africa,Other,Good,2025-06-02 07:45:00
+TRACERTE,jumia.com.ng,"San Francisco, US",2.0,,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,North America,Other,Good,2025-06-02 08:00:00
+TRACERTE,0.ie.pool.ntp.org,"Dublin, IE",20.0,,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,Other,Other,Good,2025-06-02 08:15:00
+TRACERTE,safaricom.co.ke,"San Mateo, US",6.0,,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,North America,Other,Good,2025-06-02 08:30:00
+TRACERTE,aliyun.com,"Shanghai, CN",19.0,,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,Asia,Other,Good,2025-06-02 08:45:00
+TRACERTE,rakuten.co.jp,"Tokyo, JP",18.0,,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,Asia,Other,Good,2025-06-02 09:00:00
+TRACERTE,2.kr.pool.ntp.org,"Busan, KR",11.0,,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,Other,Other,Good,2025-06-02 09:15:00
+TRACERTE,thairath.co.th,"San Jose, US",11.0,,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,North America,Other,Good,2025-06-02 09:30:00
+TRACERTE,1.vn.pool.ntp.org,"Hanoi, VN",15.0,,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,Other,Other,Good,2025-06-02 09:45:00
+TRACERTE,mimos.my,"Bukit Jalil, MY",11.0,,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,Other,Other,Good,2025-06-02 10:00:00
+TRACERTE,arynews.tv,"Austin, US",2.0,,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,North America,Other,Good,2025-06-02 10:15:00
+TRACERTE,hurriyet.com.tr,"Istanbul, TR",18.0,,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,Other,Other,Good,2025-06-02 10:30:00
+TRACERTE,1.us.pool.ntp.org,"Kansas City, US",13.0,,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,North America,Other,Good,2025-06-02 10:45:00
+TRACERTE,spiegel.de,"Frankfurt am Main, DE",13.0,,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,Europe,Other,Good,2025-06-02 11:00:00
+TRACERTE,lemond.fr,"Paris, FR",21.0,,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,Europe,Other,Good,2025-06-02 11:15:00
+TRACERTE,elpais.com,"Santa Clara, US",9.0,,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,North America,Other,Good,2025-06-02 11:30:00
+TRACERTE,aftonbladet.se,"Seattle, US",10.0,,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,North America,Other,Good,2025-06-02 11:45:00
+TRACERTE,wp.pl,"Gdynia, PL",20.0,,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,Other,Other,Good,2025-06-02 12:00:00
+TRACERTE,seznam.cz,"Mladá Boleslav, CZ",17.0,,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,Other,Other,Good,2025-06-02 12:15:00
+TRACERTE,cnn.gr,"Lelystad, NL",16.0,,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,Other,Other,Good,2025-06-02 12:30:00
+TRACERTE,amazon.com,"Ashburn, US",20.0,,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,North America,Other,Good,2025-06-02 12:45:00
+TRACERTE,google.com,"Sunnyvale, US",9.0,,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,North America,Other,Good,2025-06-02 13:00:00
+TRACERTE,cbc.ca,"Santa Clara, US",10.0,,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,North America,Other,Good,2025-06-02 13:15:00
+TRACERTE,1.cr.pool.ntp.org,"San Rafael, CR",7.0,,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,Other,Other,Good,2025-06-02 13:30:00
+TRACERTE,3.us.pool.ntp.org,"Centralia, US",13.0,,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,North America,Other,Good,2025-06-02 13:45:00
+TRACERTE,lapatria.bo,"Phoenix, US",14.0,,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,North America,Other,Good,2025-06-02 14:00:00
+TRACERTE,emol.com,"Santiago, CL",12.0,,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,Other,Other,Good,2025-06-02 14:15:00
+TRACERTE,za.yahoo.com,"San Jose, US",8.0,,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,North America,Other,Good,2025-06-02 14:30:00
+TRACERTE,bbc.co.uk,"San Francisco, US",6.0,,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,North America,Other,Good,2025-06-02 14:45:00
+TRACERTE,abc.net.au,"San Jose, US",9.0,,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,North America,Other,Good,2025-06-02 15:00:00
+TRACERTE,nzherald.co.nz,"San Francisco, US",2.0,,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,North America,Other,Good,2025-06-02 15:15:00
+TRACERTE,postcourier.com.pg,"Santa Clara, US",10.0,,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,North America,Other,Good,2025-06-02 15:30:00
+TRACERTE,samoaobserver.ws,"San Francisco, US",2.0,,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,North America,Other,Good,2025-06-02 15:45:00
+TRACERTE,uol.com.br,"São Paulo, BR",18.0,,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,South America,Other,Good,2025-06-02 16:00:00
+TRACERTE,rte.ie,"San Francisco, US",2.0,,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,North America,Other,Good,2025-06-02 16:15:00
+TRACERTE,news24.com,"San Francisco, US",2.0,,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,North America,Other,Good,2025-06-02 16:30:00
+HTTPS,https://angolacables.co.ao,"Luanda, AO",,,Cloudflare WARP,True,1,,s,Cloudflare WARP,Africa,Security,Unknown,2025-06-02 16:45:00
+HTTPS,https://jumia.com.ng,"San Francisco, US",0.123,0.139,Cloudflare WARP,False,0,,s,Cloudflare WARP,North America,Security,Good,2025-06-02 17:00:00
+HTTPS,https://egyptair.com,"Dublin, IE",0.33,0.299,Cloudflare WARP,False,0,,s,Cloudflare WARP,Other,Security,Good,2025-06-02 17:15:00
+HTTPS,https://safaricom.co.ke,"San Mateo, US",0.115,0.092,Cloudflare WARP,False,0,,s,Cloudflare WARP,North America,Security,Good,2025-06-02 17:30:00
+HTTPS,https://aliyun.com,"Shanghai, CN",0.438,0.443,Cloudflare WARP,False,0,,s,Cloudflare WARP,Asia,Security,Good,2025-06-02 17:45:00
+HTTPS,https://rakuten.co.jp,"Tokyo, JP",0.233,0.19,Cloudflare WARP,False,0,,s,Cloudflare WARP,Asia,Security,Good,2025-06-02 18:00:00
+HTTPS,https://naver.com,"Seoul, KR",0.287,0.238,Cloudflare WARP,False,0,,s,Cloudflare WARP,Other,Security,Good,2025-06-02 18:15:00
+HTTPS,https://thairath.co.th,"San Jose, US",0.059,0.052,Cloudflare WARP,False,0,,s,Cloudflare WARP,North America,Security,Good,2025-06-02 18:30:00
+HTTPS,https://vnexpress.net,"Hanoi, VN",0.632,0.681,Cloudflare WARP,False,0,,s,Cloudflare WARP,Other,Security,Good,2025-06-02 18:45:00
+HTTPS,https://moh.gov.my,"Kota Bharu, MY",1.076,1.272,Cloudflare WARP,False,0,,s,Cloudflare WARP,Other,Security,Good,2025-06-02 19:00:00
+HTTPS,https://arynews.tv,"Austin, US",0.16,0.208,Cloudflare WARP,False,0,,s,Cloudflare WARP,North America,Security,Good,2025-06-02 19:15:00
+HTTPS,https://hurriyet.com.tr,"Istanbul, TR",0.673,0.721,Cloudflare WARP,False,0,,s,Cloudflare WARP,Other,Security,Good,2025-06-02 19:30:00
+HTTPS,https://aljazeera.com,"Stockholm, SE",0.471,0.465,Cloudflare WARP,False,0,,s,Cloudflare WARP,Other,Security,Good,2025-06-02 19:45:00
+HTTPS,https://spiegel.de,"Frankfurt am Main, DE",0.405,0.377,Cloudflare WARP,False,0,,s,Cloudflare WARP,Europe,Security,Good,2025-06-02 20:00:00
+HTTPS,https://lemond.fr,"Paris, FR",0.355,0.322,Cloudflare WARP,False,0,,s,Cloudflare WARP,Europe,Security,Good,2025-06-02 20:15:00
+HTTPS,https://elpais.com,"San Jose, US",0.059,0.053,Cloudflare WARP,False,0,,s,Cloudflare WARP,North America,Security,Good,2025-06-02 20:30:00
+HTTPS,https://ansa.it,"Falkenstein, DE",0.369,0.336,Cloudflare WARP,False,0,,s,Cloudflare WARP,Europe,Security,Good,2025-06-02 20:45:00
+HTTPS,https://aftonbladet.se,"Seattle, US",0.308,0.387,Cloudflare WARP,False,0,,s,Cloudflare WARP,North America,Security,Good,2025-06-02 21:00:00
+HTTPS,https://wp.pl,"Gdynia, PL",0.404,0.366,Cloudflare WARP,False,0,,s,Cloudflare WARP,Other,Security,Good,2025-06-02 21:15:00
+HTTPS,https://seznam.cz,"Mladá Boleslav, CZ",0.389,0.362,Cloudflare WARP,False,0,,s,Cloudflare WARP,Other,Security,Good,2025-06-02 21:30:00
+HTTPS,https://cnn.gr,"Lelystad, NL",0.327,0.296,Cloudflare WARP,False,0,,s,Cloudflare WARP,Other,Security,Good,2025-06-02 21:45:00
+HTTPS,https://amazon.com,"Ashburn, US",0.164,0.133,Cloudflare WARP,False,0,,s,Cloudflare WARP,North America,Security,Good,2025-06-02 22:00:00
+HTTPS,https://google.com,"San Jose, US",0.057,0.051,Cloudflare WARP,False,0,,s,Cloudflare WARP,North America,Security,Good,2025-06-02 22:15:00
+HTTPS,https://cbc.ca,"Santa Clara, US",0.068,0.064,Cloudflare WARP,False,0,,s,Cloudflare WARP,North America,Security,Good,2025-06-02 22:30:00
+HTTPS,https://nacion.com,"San José, CR",0.233,0.191,Cloudflare WARP,False,0,,s,Cloudflare WARP,Other,Security,Good,2025-06-02 22:45:00
+HTTPS,https://jamaicaobserver.com,"Boardman, US",0.133,0.133,Cloudflare WARP,False,0,,s,Cloudflare WARP,North America,Security,Good,2025-06-02 23:00:00
+HTTPS,https://lapatria.bo,"Phoenix, US",0.098,0.088,Cloudflare WARP,False,0,,s,Cloudflare WARP,North America,Security,Good,2025-06-02 23:15:00
+HTTPS,https://emol.com,"Santiago, CL",0.493,0.579,Cloudflare WARP,False,0,,s,Cloudflare WARP,Other,Security,Good,2025-06-02 23:30:00
+HTTPS,https://elobservador.com.uy,"San Jose, US",0.069,0.064,Cloudflare WARP,False,0,,s,Cloudflare WARP,North America,Security,Good,2025-06-02 23:45:00
+HTTPS,https://bbc.co.uk,"San Francisco, US",0.059,0.052,Cloudflare WARP,False,0,,s,Cloudflare WARP,North America,Security,Good,2025-06-03 00:00:00
+HTTPS,https://abc.net.au,"San Jose, US",0.067,0.061,Cloudflare WARP,False,0,,s,Cloudflare WARP,North America,Security,Good,2025-06-03 00:15:00
+HTTPS,https://nzherald.co.nz,"San Francisco, US",0.056,0.051,Cloudflare WARP,False,0,,s,Cloudflare WARP,North America,Security,Good,2025-06-03 00:30:00
+HTTPS,https://postcourier.com.pg,"Santa Clara, US",0.12,0.133,Cloudflare WARP,False,0,,s,Cloudflare WARP,North America,Security,Good,2025-06-03 00:45:00
+HTTPS,https://samoaobserver.ws,"San Francisco, US",0.055,0.051,Cloudflare WARP,False,0,,s,Cloudflare WARP,North America,Security,Good,2025-06-03 01:00:00
+HTTPS,https://uol.com.br,"São Paulo, BR",0.4,0.364,Cloudflare WARP,False,0,,s,Cloudflare WARP,South America,Security,Good,2025-06-03 01:15:00
+HTTPS,https://rte.ie,"San Francisco, US",0.058,0.052,Cloudflare WARP,False,0,,s,Cloudflare WARP,North America,Security,Good,2025-06-03 01:30:00
+HTTPS,https://news24.com,"San Francisco, US",0.057,0.051,Cloudflare WARP,False,0,,s,Cloudflare WARP,North America,Security,Good,2025-06-03 01:45:00
+UPLOAD,sse-test-bucket-af-south-1,"Cape Town, ZA",2621443.89,5242877.406,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,Africa,Throughput,Poor,2025-06-03 02:00:00
+UPLOAD,sse-test-bucket-ap-east-1,"Hong Kong, HK",2621442.273,5242878.485,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,Other,Throughput,Poor,2025-06-03 02:15:00
+UPLOAD,sse-test-bucket-ap-northeast-1,"Tokyo, JP",2621442.333,5242878.445,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,Asia,Throughput,Poor,2025-06-03 02:30:00
+UPLOAD,sse-test-bucket-ap-northeast-3,"Osaka, JP",2621442.286,5242878.476,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,Asia,Throughput,Poor,2025-06-03 02:45:00
+UPLOAD,sse-test-bucket-ap-south-1,"Mumbai, IN",2621442.366,5242878.423,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,Asia,Throughput,Poor,2025-06-03 03:00:00
+UPLOAD,sse-test-bucket-ap-south-2,"Hyderābād, IN",2621442.429,5242878.381,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,Asia,Throughput,Poor,2025-06-03 03:15:00
+UPLOAD,sse-test-bucket-ap-southeast-1,"Singapore, SG",2621442.256,5242878.496,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,Asia,Throughput,Poor,2025-06-03 03:30:00
+UPLOAD,sse-test-bucket-ap-southeast-2,"Sydney, AU",2621442.235,5242878.51,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,Oceania,Throughput,Poor,2025-06-03 03:45:00
+UPLOAD,sse-test-bucket-ap-southeast-4,"Melbourne, AU",2621442.236,5242878.509,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,Oceania,Throughput,Poor,2025-06-03 04:00:00
+UPLOAD,sse-test-bucket-ap-southeast-5,"Kuala Lumpur, MY",2621442.27,5242878.487,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,Other,Throughput,Poor,2025-06-03 04:15:00
+UPLOAD,sse-test-bucket-ca-central-1,"Montréal, CA",2621442.477,5242878.349,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,North America,Throughput,Poor,2025-06-03 04:30:00
+UPLOAD,sse-test-bucket-ca-west-1,"Calgary, CA",2621443.251,5242877.833,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,North America,Throughput,Poor,2025-06-03 04:45:00
+UPLOAD,sse-test-bucket-eu-central-1,"Frankfurt am Main, DE",2621442.283,5242878.478,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,Europe,Throughput,Poor,2025-06-03 05:00:00
+UPLOAD,sse-test-bucket-eu-central-2,"Zürich, CH",2621442.248,5242878.501,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,Other,Throughput,Poor,2025-06-03 05:15:00
+UPLOAD,sse-test-bucket-eu-north-1,"Stockholm, SE",2621442.254,5242878.498,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,Other,Throughput,Poor,2025-06-03 05:30:00
+UPLOAD,sse-test-bucket-eu-south-1,"Milan, IT",2621443.383,5242877.745,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,Other,Throughput,Poor,2025-06-03 05:45:00
+UPLOAD,sse-test-bucket-eu-west-1,"Dublin, IE",2621442.236,5242878.51,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,Other,Throughput,Poor,2025-06-03 06:00:00
+UPLOAD,sse-test-bucket-eu-west-2,"London, GB",2621442.236,5242878.509,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,Europe,Throughput,Poor,2025-06-03 06:15:00
+UPLOAD,sse-test-bucket-eu-west-3,"Paris, FR",2621442.262,5242878.492,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,Europe,Throughput,Poor,2025-06-03 06:30:00
+UPLOAD,sse-test-bucket-il-central-1,"Tel Aviv, IL",2621442.328,5242878.448,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,Other,Throughput,Poor,2025-06-03 06:45:00
+UPLOAD,sse-test-bucket-me-central-1,"Dubai, AE",2621442.529,5242878.314,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,Middle East,Throughput,Poor,2025-06-03 07:00:00
+UPLOAD,sse-test-bucket-me-south-1,"Dār Kulayb, BH",2621442.488,5242878.341,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,Other,Throughput,Poor,2025-06-03 07:15:00
+UPLOAD,sse-test-bucket-mx-central-1,"Santiago de Querétaro, MX",2621442.586,5242878.276,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,Other,Throughput,Poor,2025-06-03 07:30:00
+UPLOAD,sse-test-bucket-sa-east-1,"São Paulo, BR",2621442.322,5242878.452,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,South America,Throughput,Poor,2025-06-03 07:45:00
+UPLOAD,sse-test-bucket-us-east-1,"Ashburn, US",2621442.429,5242878.381,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,North America,Throughput,Poor,2025-06-03 08:00:00
+UPLOAD,sse-test-bucket-us-west-1,"San Jose, US",2621444.391,5242877.073,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,North America,Throughput,Poor,2025-06-03 08:15:00
+DOWNLOAD,sse-test-bucket-af-south-1,"Cape Town, ZA",1747631.385,4280791.283,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,Africa,Throughput,Poor,2025-06-03 08:30:00
+DOWNLOAD,sse-test-bucket-ap-east-1,"Hong Kong, HK",1747628.234,4280792.826,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,Other,Throughput,Poor,2025-06-03 08:45:00
+DOWNLOAD,sse-test-bucket-ap-northeast-1,"Tokyo, JP",1747628.158,4280792.864,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,Asia,Throughput,Poor,2025-06-03 09:00:00
+DOWNLOAD,sse-test-bucket-ap-northeast-3,"Osaka, JP",1747628.16,4280792.862,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,Asia,Throughput,Poor,2025-06-03 09:15:00
+DOWNLOAD,sse-test-bucket-ap-south-1,"Mumbai, IN",1747631.078,4280791.433,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,Asia,Throughput,Poor,2025-06-03 09:30:00
+DOWNLOAD,sse-test-bucket-ap-south-2,"Hyderābād, IN",1747631.222,4280791.362,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,Asia,Throughput,Poor,2025-06-03 09:45:00
+DOWNLOAD,sse-test-bucket-ap-southeast-1,"Singapore, SG",1747628.325,4280792.782,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,Asia,Throughput,Poor,2025-06-03 10:00:00
+DOWNLOAD,sse-test-bucket-ap-southeast-2,"Sydney, AU",1747628.172,4280792.857,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,Oceania,Throughput,Poor,2025-06-03 10:15:00
+DOWNLOAD,sse-test-bucket-ap-southeast-4,"Melbourne, AU",1747628.205,4280792.84,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,Oceania,Throughput,Poor,2025-06-03 10:30:00
+DOWNLOAD,sse-test-bucket-ap-southeast-5,"Kuala Lumpur, MY",1747628.249,4280792.819,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,Other,Throughput,Poor,2025-06-03 10:45:00
+DOWNLOAD,sse-test-bucket-ca-central-1,"Montréal, CA",1747628.196,4280792.845,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,North America,Throughput,Poor,2025-06-03 11:00:00
+DOWNLOAD,sse-test-bucket-ca-west-1,"Calgary, CA",1747628.384,4280792.753,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,North America,Throughput,Poor,2025-06-03 11:15:00
+DOWNLOAD,sse-test-bucket-eu-central-1,"Frankfurt am Main, DE",1747628.209,4280792.838,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,Europe,Throughput,Poor,2025-06-03 11:30:00
+DOWNLOAD,sse-test-bucket-eu-central-2,"Zürich, CH",1747628.203,4280792.841,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,Other,Throughput,Poor,2025-06-03 11:45:00
+DOWNLOAD,sse-test-bucket-eu-north-1,"Stockholm, SE",1747628.315,4280792.787,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,Other,Throughput,Poor,2025-06-03 12:00:00
+DOWNLOAD,sse-test-bucket-eu-south-1,"Milan, IT",1747628.31,4280792.789,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,Other,Throughput,Poor,2025-06-03 12:15:00
+DOWNLOAD,sse-test-bucket-eu-west-1,"Dublin, IE",1747628.164,4280792.861,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,Other,Throughput,Poor,2025-06-03 12:30:00
+DOWNLOAD,sse-test-bucket-eu-west-2,"London, GB",1747628.159,4280792.863,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,Europe,Throughput,Poor,2025-06-03 12:45:00
+DOWNLOAD,sse-test-bucket-eu-west-3,"Paris, FR",1747628.222,4280792.832,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,Europe,Throughput,Poor,2025-06-03 13:00:00
+DOWNLOAD,sse-test-bucket-il-central-1,"Tel Aviv, IL",1747628.304,4280792.792,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,Other,Throughput,Poor,2025-06-03 13:15:00
+DOWNLOAD,sse-test-bucket-me-central-1,"Dubai, AE",1747628.48,4280792.706,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,Middle East,Throughput,Poor,2025-06-03 13:30:00
+DOWNLOAD,sse-test-bucket-me-south-1,"Dār Kulayb, BH",1747631.311,4280791.319,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,Other,Throughput,Poor,2025-06-03 13:45:00
+DOWNLOAD,sse-test-bucket-mx-central-1,"Santiago de Querétaro, MX",1747628.23,4280792.828,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,Other,Throughput,Poor,2025-06-03 14:00:00
+DOWNLOAD,sse-test-bucket-sa-east-1,"São Paulo, BR",1747628.243,4280792.822,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,South America,Throughput,Poor,2025-06-03 14:15:00
+DOWNLOAD,sse-test-bucket-us-east-1,"Ashburn, US",1747628.212,4280792.837,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,North America,Throughput,Poor,2025-06-03 14:30:00
+DOWNLOAD,sse-test-bucket-us-west-1,"San Jose, US",1747628.756,4280792.571,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,North America,Throughput,Poor,2025-06-03 14:45:00
+IPERF3-TCP,13.247.37.65,"Cape Town, ZA",29585386.922,59170496.718,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,Africa,Other,Poor,2025-06-03 15:00:00
+IPERF3-UDP-UL-100M,13.247.37.65,"Cape Town, ZA",24997924.805,55897003.245,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,Africa,Other,Poor,2025-06-03 15:15:00
+IPERF3-UDP-DL-100M,13.247.37.65,"Cape Town, ZA",25807959.048,57708167.859,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,Africa,Other,Poor,2025-06-03 15:30:00
+IPERF3-UDP-UL-500M,13.247.37.65,"Cape Town, ZA",124991883.046,279486499.297,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,Africa,Other,Poor,2025-06-03 15:45:00
+IPERF3-UDP-DL-500M,13.247.37.65,"Cape Town, ZA",128803596.85,288009745.431,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,Africa,Other,Poor,2025-06-03 16:00:00
+IPERF3-UDP-UL-1000M,13.247.37.65,"Cape Town, ZA",250035775.011,558953546.247,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,Africa,Other,Poor,2025-06-03 16:15:00
+IPERF3-UDP-DL-1000M,13.247.37.65,"Cape Town, ZA",259170613.919,579277423.635,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,Africa,Other,Poor,2025-06-03 16:30:00
+IPERF3-UDP-UL-5000M,13.247.37.65,"Cape Town, ZA",645636587.003,1442658860.929,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,Africa,Other,Poor,2025-06-03 16:45:00
+IPERF3-UDP-DL-5000M,13.247.37.65,"Cape Town, ZA",702168084.73,1568930490.027,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,Africa,Other,Poor,2025-06-03 17:00:00
+IPERF3-TCP,18.182.224.145,"Tokyo, JP",85104075.83,170207354.78,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,Asia,Other,Poor,2025-06-03 17:15:00
+IPERF3-UDP-UL-100M,18.182.224.145,"Tokyo, JP",24997746.669,55896416.353,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,Asia,Other,Poor,2025-06-03 17:30:00
+IPERF3-UDP-DL-100M,18.182.224.145,"Tokyo, JP",25357776.451,56701522.813,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,Asia,Other,Poor,2025-06-03 17:45:00
+IPERF3-UDP-UL-500M,18.182.224.145,"Tokyo, JP",124991933.855,279486470.895,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,Asia,Other,Poor,2025-06-03 18:00:00
+IPERF3-UDP-DL-500M,18.182.224.145,"Tokyo, JP",126903899.253,283761841.03,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,Asia,Other,Poor,2025-06-03 18:15:00
+IPERF3-UDP-UL-1000M,18.182.224.145,"Tokyo, JP",250035626.82,558952942.657,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,Asia,Other,Poor,2025-06-03 18:30:00
+IPERF3-UDP-DL-1000M,18.182.224.145,"Tokyo, JP",254350667.342,568486100.373,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,Asia,Other,Poor,2025-06-03 18:45:00
+IPERF3-UDP-UL-5000M,18.182.224.145,"Tokyo, JP",664281266.373,1484330536.745,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,Asia,Other,Poor,2025-06-03 19:00:00
+IPERF3-UDP-DL-5000M,18.182.224.145,"Tokyo, JP",990294349.617,2212518565.71,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,Asia,Other,Poor,2025-06-03 19:15:00
+IPERF3-TCP,54.179.99.200,"Singapore, SG",61188998.202,122377425.198,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,Asia,Other,Poor,2025-06-03 19:30:00
+IPERF3-UDP-UL-100M,54.179.99.200,"Singapore, SG",24997941.22,55896994.068,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,Asia,Other,Poor,2025-06-03 19:45:00
+IPERF3-UDP-DL-100M,54.179.99.200,"Singapore, SG",25527955.231,57082115.68,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,Asia,Other,Poor,2025-06-03 20:00:00
+IPERF3-UDP-UL-500M,54.179.99.200,"Singapore, SG",124992380.447,279487594.187,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,Asia,Other,Poor,2025-06-03 20:15:00
+IPERF3-UDP-DL-500M,54.179.99.200,"Singapore, SG",127666485.698,285466354.039,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,Asia,Other,Poor,2025-06-03 20:30:00
+IPERF3-UDP-UL-1000M,54.179.99.200,"Singapore, SG",250028874.036,558960146.786,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,Asia,Other,Poor,2025-06-03 20:45:00
+IPERF3-UDP-DL-1000M,54.179.99.200,"Singapore, SG",256911802.678,574182724.77,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,Asia,Other,Poor,2025-06-03 21:00:00
+IPERF3-UDP-UL-5000M,54.179.99.200,"Singapore, SG",648692745.498,1449514155.342,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,Asia,Other,Poor,2025-06-03 21:15:00
+IPERF3-UDP-DL-5000M,54.179.99.200,"Singapore, SG",981701193.054,2193338970.057,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,Asia,Other,Poor,2025-06-03 21:30:00
+IPERF3-TCP,43.204.17.203,"Mumbai, IN",41452208.08,82904023.947,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,Asia,Other,Poor,2025-06-03 21:45:00
+IPERF3-UDP-UL-100M,43.204.17.203,"Mumbai, IN",24997931.621,55896999.435,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,Asia,Other,Poor,2025-06-03 22:00:00
+IPERF3-UDP-DL-100M,43.204.17.203,"Mumbai, IN",25680502.456,57423138.841,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,Asia,Other,Poor,2025-06-03 22:15:00
+IPERF3-UDP-UL-500M,43.204.17.203,"Mumbai, IN",124992221.066,279486996.813,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,Asia,Other,Poor,2025-06-03 22:30:00
+IPERF3-UDP-DL-500M,43.204.17.203,"Mumbai, IN",128480402.705,287286331.688,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,Asia,Other,Poor,2025-06-03 22:45:00
+IPERF3-UDP-UL-1000M,43.204.17.203,"Mumbai, IN",250034611.981,558957627.765,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,Asia,Other,Poor,2025-06-03 23:00:00
+IPERF3-UDP-DL-1000M,43.204.17.203,"Mumbai, IN",257202972.067,574858132.428,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,Asia,Other,Poor,2025-06-03 23:15:00
+IPERF3-UDP-UL-5000M,43.204.17.203,"Mumbai, IN",603184605.369,1347849384.019,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,Asia,Other,Poor,2025-06-03 23:30:00
+IPERF3-UDP-DL-5000M,43.204.17.203,"Mumbai, IN",997533253.933,2228733810.957,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,Asia,Other,Poor,2025-06-03 23:45:00
+IPERF3-TCP,13.237.82.59,"Sydney, AU",69821889.83,139643070.78,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,Oceania,Other,Poor,2025-06-04 00:00:00
+IPERF3-UDP-UL-100M,13.237.82.59,"Sydney, AU",24997937.218,55896996.306,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,Oceania,Other,Poor,2025-06-04 00:15:00
+IPERF3-UDP-DL-100M,13.237.82.59,"Sydney, AU",25455281.056,56919545.81,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,Oceania,Other,Poor,2025-06-04 00:30:00
+IPERF3-UDP-UL-500M,13.237.82.59,"Sydney, AU",124991749.668,279485887.387,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,Oceania,Other,Poor,2025-06-04 00:45:00
+IPERF3-UDP-DL-500M,13.237.82.59,"Sydney, AU",127316541.304,284683755.065,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,Oceania,Other,Poor,2025-06-04 01:00:00
+IPERF3-UDP-UL-1000M,13.237.82.59,"Sydney, AU",250031933.233,558955692.283,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,Oceania,Other,Poor,2025-06-04 01:15:00
+IPERF3-UDP-DL-1000M,13.237.82.59,"Sydney, AU",255745540.447,571618547.743,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,Oceania,Other,Poor,2025-06-04 01:30:00
+IPERF3-UDP-UL-5000M,13.237.82.59,"Sydney, AU",549407088.579,1227705461.39,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,Oceania,Other,Poor,2025-06-04 01:45:00
+IPERF3-UDP-DL-5000M,13.237.82.59,"Sydney, AU",1042593471.184,2329356372.211,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,Oceania,Other,Poor,2025-06-04 02:00:00
+IPERF3-TCP,63.177.5.144,"Frankfurt am Main, DE",55393120.198,110785735.868,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,Europe,Other,Poor,2025-06-04 02:15:00
+IPERF3-UDP-UL-100M,63.177.5.144,"Frankfurt am Main, DE",24997924.806,55897003.244,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,Europe,Other,Poor,2025-06-04 02:30:00
+IPERF3-UDP-DL-100M,63.177.5.144,"Frankfurt am Main, DE",25540543.49,57110088.746,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,Europe,Other,Poor,2025-06-04 02:45:00
+IPERF3-UDP-UL-500M,63.177.5.144,"Frankfurt am Main, DE",124992612.844,279488150.746,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,Europe,Other,Poor,2025-06-04 03:00:00
+IPERF3-UDP-DL-500M,63.177.5.144,"Frankfurt am Main, DE",127814795.851,285798762.222,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,Europe,Other,Poor,2025-06-04 03:15:00
+IPERF3-UDP-UL-1000M,63.177.5.144,"Frankfurt am Main, DE",250026917.164,558957808.085,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,Europe,Other,Poor,2025-06-04 03:30:00
+IPERF3-UDP-DL-1000M,63.177.5.144,"Frankfurt am Main, DE",257014385.716,574458305.606,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,Europe,Other,Poor,2025-06-04 03:45:00
+IPERF3-UDP-UL-5000M,63.177.5.144,"Frankfurt am Main, DE",603797542.553,1349184495.871,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,Europe,Other,Poor,2025-06-04 04:00:00
+IPERF3-UDP-DL-5000M,63.177.5.144,"Frankfurt am Main, DE",585265485.248,1307766325.646,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,Europe,Other,Poor,2025-06-04 04:15:00
+IPERF3-TCP,63.34.149.41,"Dublin, IE",62111205.995,124221894.67,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,Other,Other,Poor,2025-06-04 04:30:00
+IPERF3-UDP-UL-100M,63.34.149.41,"Dublin, IE",24997924.807,55897003.244,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,Other,Other,Poor,2025-06-04 04:45:00
+IPERF3-UDP-DL-100M,63.34.149.41,"Dublin, IE",25462901.069,56936566.752,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,Other,Other,Poor,2025-06-04 05:00:00
+IPERF3-UDP-UL-500M,63.34.149.41,"Dublin, IE",124993198.953,279485077.263,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,Other,Other,Poor,2025-06-04 05:15:00
+IPERF3-UDP-DL-500M,63.34.149.41,"Dublin, IE",127479698.522,285048365.394,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,Other,Other,Poor,2025-06-04 05:30:00
+IPERF3-UDP-UL-1000M,63.34.149.41,"Dublin, IE",250020525.639,558964124.551,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,Other,Other,Poor,2025-06-04 05:45:00
+IPERF3-UDP-DL-1000M,63.34.149.41,"Dublin, IE",255918059.434,572009501.093,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,Other,Other,Poor,2025-06-04 06:00:00
+IPERF3-UDP-UL-5000M,63.34.149.41,"Dublin, IE",597330829.032,1334772703.249,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,Other,Other,Poor,2025-06-04 06:15:00
+IPERF3-UDP-DL-5000M,63.34.149.41,"Dublin, IE",981496148.335,2192851571.356,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,Other,Other,Poor,2025-06-04 06:30:00
+IPERF3-TCP,54.232.52.243,"São Paulo, BR",53329156.422,106657815.718,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,South America,Other,Poor,2025-06-04 06:45:00
+IPERF3-UDP-UL-100M,54.232.52.243,"São Paulo, BR",24997932.222,55896999.098,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,South America,Other,Poor,2025-06-04 07:00:00
+IPERF3-UDP-DL-100M,54.232.52.243,"São Paulo, BR",25568007.252,57171620.998,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,South America,Other,Poor,2025-06-04 07:15:00
+IPERF3-UDP-UL-500M,54.232.52.243,"São Paulo, BR",124993103.59,279487189.957,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,South America,Other,Poor,2025-06-04 07:30:00
+IPERF3-UDP-DL-500M,54.232.52.243,"São Paulo, BR",127755308.326,285664517.39,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,South America,Other,Poor,2025-06-04 07:45:00
+IPERF3-UDP-UL-1000M,54.232.52.243,"São Paulo, BR",250029704.813,558956937.146,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,South America,Other,Poor,2025-06-04 08:00:00
+IPERF3-UDP-DL-1000M,54.232.52.243,"São Paulo, BR",256617627.351,573576250.662,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,South America,Other,Poor,2025-06-04 08:15:00
+IPERF3-UDP-UL-5000M,54.232.52.243,"São Paulo, BR",630973079.551,1409947005.92,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,South America,Other,Poor,2025-06-04 08:30:00
+IPERF3-UDP-DL-5000M,54.232.52.243,"São Paulo, BR",1048472400.438,2342482837.585,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,South America,Other,Poor,2025-06-04 08:45:00
+IPERF3-TCP,54.237.15.83,"Ashburn, US",85643199.83,171285517.447,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,North America,Other,Poor,2025-06-04 09:00:00
+IPERF3-UDP-UL-100M,54.237.15.83,"Ashburn, US",24997929.808,55897000.448,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,North America,Other,Poor,2025-06-04 09:15:00
+IPERF3-UDP-DL-100M,54.237.15.83,"Ashburn, US",25265434.457,56495029.758,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,North America,Other,Poor,2025-06-04 09:30:00
+IPERF3-UDP-UL-500M,54.237.15.83,"Ashburn, US",124992309.681,279486947.278,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,North America,Other,Poor,2025-06-04 09:45:00
+IPERF3-UDP-DL-500M,54.237.15.83,"Ashburn, US",126441276.47,282727140.144,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,North America,Other,Poor,2025-06-04 10:00:00
+IPERF3-UDP-UL-1000M,54.237.15.83,"Ashburn, US",250038645.12,558951256.708,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,North America,Other,Poor,2025-06-04 10:15:00
+IPERF3-UDP-DL-1000M,54.237.15.83,"Ashburn, US",253519756.023,566644040.972,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,North America,Other,Poor,2025-06-04 10:30:00
+IPERF3-UDP-UL-5000M,54.237.15.83,"Ashburn, US",625888398.419,1398575324.236,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,North America,Other,Poor,2025-06-04 10:45:00
+IPERF3-UDP-DL-5000M,54.237.15.83,"Ashburn, US",1034554785.696,2311377077.667,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,North America,Other,Poor,2025-06-04 11:00:00
+IPERF3-TCP,52.52.79.177,"San Jose, US",95224711.173,190448429.885,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,North America,Other,Poor,2025-06-04 11:15:00
+IPERF3-UDP-UL-100M,52.52.79.177,"San Jose, US",24997924.806,55897003.244,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,North America,Other,Poor,2025-06-04 11:30:00
+IPERF3-UDP-DL-100M,52.52.79.177,"San Jose, US",25097937.067,56120489.148,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,North America,Other,Poor,2025-06-04 11:45:00
+IPERF3-UDP-UL-500M,52.52.79.177,"San Jose, US",124992066.084,279486396.98,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,North America,Other,Poor,2025-06-04 12:00:00
+IPERF3-UDP-DL-500M,52.52.79.177,"San Jose, US",125492484.807,280603626.716,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,North America,Other,Poor,2025-06-04 12:15:00
+IPERF3-UDP-UL-1000M,52.52.79.177,"San Jose, US",250035835.898,558956944.08,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,North America,Other,Poor,2025-06-04 12:30:00
+IPERF3-UDP-DL-1000M,52.52.79.177,"San Jose, US",254552951.112,568933183.584,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,North America,Other,Poor,2025-06-04 12:45:00
+IPERF3-UDP-UL-5000M,52.52.79.177,"San Jose, US",629622388.091,1406868825.521,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,North America,Other,Poor,2025-06-04 13:00:00
+IPERF3-UDP-DL-5000M,52.52.79.177,"San Jose, US",510058553.053,1139736564.123,Cloudflare WARP,False,0,,Mbps / s,Cloudflare WARP,North America,Other,Poor,2025-06-04 13:15:00

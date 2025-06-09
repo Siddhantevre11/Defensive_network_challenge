@@ -1,0 +1,503 @@
+TEST,DESTINATION,LOCATION,metric_1,metric_2,metric_3,metric_4,metric_5,metric_6,Source,metric_mean,metric_std,test_failed
+PING,angolacables.co.ao,"Luanda, AO",194.851,194.975,195.176,0.125,0.0,,Baseline,117.025,106.772,False
+PING,jumia.com.ng,"San Francisco, US",1.804,1.815,1.822,0.007,0.0,,Baseline,1.09,0.991,False
+PING,0.ie.pool.ntp.org,"San Francisco, US",,,,,100.0,,Baseline,100.0,,False
+PING,safaricom.co.ke,"San Mateo, US",33.015,33.053,33.087,0.03,0.0,,Baseline,19.837,18.095,False
+PING,aliyun.com,"Shanghai, CN",170.192,170.213,170.246,0.021,0.0,,Baseline,102.134,93.226,False
+PING,rakuten.co.jp,"Tokyo, JP",108.921,108.926,108.932,0.004,0.0,,Baseline,65.357,59.66,False
+PING,2.kr.pool.ntp.org,"Seongnam-si, KR",143.427,143.831,144.112,0.269,0.0,,Baseline,86.328,78.684,False
+PING,thairath.co.th,"San Jose, US",1.34,1.348,1.362,0.008,0.0,,Baseline,0.812,0.737,False
+PING,1.vn.pool.ntp.org,"Ho Chi Minh City, VN",201.589,201.618,201.644,0.022,0.0,,Baseline,120.975,110.424,False
+PING,mimos.my,"Bukit Jalil, MY",171.619,171.708,171.829,0.076,0.0,,Baseline,103.046,94.033,False
+PING,arynews.tv,"Austin, US",2.07,2.106,2.147,0.027,0.0,,Baseline,1.27,1.147,False
+PING,hurriyet.com.tr,"Istanbul, TR",193.903,193.985,194.065,0.068,0.0,,Baseline,116.404,106.231,False
+PING,1.us.pool.ntp.org,"San Jose, US",,,,,100.0,,Baseline,100.0,,False
+PING,spiegel.de,"Frankfurt am Main, DE",164.576,164.621,164.673,0.035,0.0,,Baseline,98.781,90.158,False
+PING,lemond.fr,"Paris, FR",153.558,153.597,153.654,0.035,0.0,,Baseline,92.169,84.122,False
+PING,elpais.com,"San Jose, US",2.235,2.25,2.27,0.012,0.0,,Baseline,1.353,1.23,False
+PING,aftonbladet.se,"Seattle, US",1.686,1.691,1.698,0.004,0.0,,Baseline,1.016,0.925,False
+PING,wp.pl,"Gdynia, PL",168.61,168.64,168.692,0.031,0.0,,Baseline,101.195,92.363,False
+PING,seznam.cz,"Prague, CZ",164.4,164.424,164.442,0.016,0.0,,Baseline,98.656,90.053,False
+PING,cnn.gr,"Lelystad, NL",149.52,149.553,149.584,0.029,0.0,,Baseline,89.737,81.905,False
+PING,amazon.com,"Ashburn, US",58.031,58.175,58.578,0.232,0.0,,Baseline,35.003,31.848,False
+PING,google.com,"Sunnyvale, US",1.86,1.874,1.887,0.009,0.0,,Baseline,1.126,1.024,False
+PING,cbc.ca,"El Segundo, US",8.782,8.802,8.816,0.014,0.0,,Baseline,5.283,4.816,False
+PING,1.cr.pool.ntp.org,"San Ramón, CR",117.115,117.222,117.361,0.102,25.0,,Baseline,75.36,58.008,False
+PING,3.us.pool.ntp.org,"Kansas City, US",3.187,3.25,3.325,0.054,0.0,,Baseline,1.963,1.768,False
+PING,lapatria.bo,"Phoenix, US",16.824,16.868,16.9,0.031,0.0,,Baseline,10.125,9.228,False
+PING,emol.com,"Santiago, CL",175.932,176.039,176.163,0.096,0.0,,Baseline,105.646,96.397,False
+PING,za.yahoo.com,"San Jose, US",1.47,1.501,1.533,0.022,0.0,,Baseline,0.905,0.817,False
+PING,bbc.co.uk,"San Francisco, US",1.748,2.986,6.29,1.909,0.0,,Baseline,2.587,2.331,False
+PING,abc.net.au,"San Jose, US",2.188,2.2,2.215,0.009,0.0,,Baseline,1.322,1.203,False
+PING,nzherald.co.nz,"San Francisco, US",2.233,2.268,2.293,0.022,0.0,,Baseline,1.363,1.235,False
+PING,postcourier.com.pg,"San Jose, US",2.179,2.206,2.229,0.021,0.0,,Baseline,1.327,1.202,False
+PING,samoaobserver.ws,"San Francisco, US",2.127,2.148,2.174,0.017,0.0,,Baseline,1.293,1.173,False
+PING,uol.com.br,"São Paulo, BR",183.558,183.584,183.61,0.02,0.0,,Baseline,110.154,100.548,False
+PING,rte.ie,"San Francisco, US",2.081,2.167,2.257,0.067,0.0,,Baseline,1.314,1.171,False
+PING,news24.com,"San Francisco, US",1.911,1.949,2.03,0.047,0.0,,Baseline,1.187,1.063,False
+TRACERTE,angolacables.co.ao,"Luanda, AO",12.0,,,,,,Baseline,12.0,,False
+TRACERTE,jumia.com.ng,"San Francisco, US",8.0,,,,,,Baseline,8.0,,False
+TRACERTE,0.ie.pool.ntp.org,"Dublin, IE",21.0,,,,,,Baseline,21.0,,False
+TRACERTE,safaricom.co.ke,"San Mateo, US",8.0,,,,,,Baseline,8.0,,False
+TRACERTE,aliyun.com,"Shanghai, CN",16.0,,,,,,Baseline,16.0,,False
+TRACERTE,rakuten.co.jp,"Tokyo, JP",15.0,,,,,,Baseline,15.0,,False
+TRACERTE,2.kr.pool.ntp.org,"Seoul, KR",10.0,,,,,,Baseline,10.0,,False
+TRACERTE,thairath.co.th,"San Jose, US",9.0,,,,,,Baseline,9.0,,False
+TRACERTE,1.vn.pool.ntp.org,"Ho Chi Minh City, VN",15.0,,,,,,Baseline,15.0,,False
+TRACERTE,mimos.my,"Bukit Jalil, MY",20.0,,,,,,Baseline,20.0,,False
+TRACERTE,arynews.tv,"Austin, US",7.0,,,,,,Baseline,7.0,,False
+TRACERTE,hurriyet.com.tr,"Istanbul, TR",17.0,,,,,,Baseline,17.0,,False
+TRACERTE,1.us.pool.ntp.org,"Fremont, US",11.0,,,,,,Baseline,11.0,,False
+TRACERTE,spiegel.de,"Frankfurt am Main, DE",14.0,,,,,,Baseline,14.0,,False
+TRACERTE,lemond.fr,"Paris, FR",22.0,,,,,,Baseline,22.0,,False
+TRACERTE,elpais.com,"San Jose, US",8.0,,,,,,Baseline,8.0,,False
+TRACERTE,aftonbladet.se,"Seattle, US",7.0,,,,,,Baseline,7.0,,False
+TRACERTE,wp.pl,"Gdynia, PL",17.0,,,,,,Baseline,17.0,,False
+TRACERTE,seznam.cz,"Prague, CZ",16.0,,,,,,Baseline,16.0,,False
+TRACERTE,cnn.gr,"Lelystad, NL",11.0,,,,,,Baseline,11.0,,False
+TRACERTE,amazon.com,"Ashburn, US",8.0,,,,,,Baseline,8.0,,False
+TRACERTE,google.com,"Sunnyvale, US",7.0,,,,,,Baseline,7.0,,False
+TRACERTE,cbc.ca,"San Jose, US",8.0,,,,,,Baseline,8.0,,False
+TRACERTE,1.cr.pool.ntp.org,"Tejar, CR",16.0,,,,,,Baseline,16.0,,False
+TRACERTE,3.us.pool.ntp.org,"Portland, US",11.0,,,,,,Baseline,11.0,,False
+TRACERTE,lapatria.bo,"Phoenix, US",17.0,,,,,,Baseline,17.0,,False
+TRACERTE,emol.com,"Santiago, CL",17.0,,,,,,Baseline,17.0,,False
+TRACERTE,za.yahoo.com,"San Jose, US",7.0,,,,,,Baseline,7.0,,False
+TRACERTE,bbc.co.uk,"San Francisco, US",5.0,,,,,,Baseline,5.0,,False
+TRACERTE,abc.net.au,"San Jose, US",8.0,,,,,,Baseline,8.0,,False
+TRACERTE,nzherald.co.nz,"San Francisco, US",7.0,,,,,,Baseline,7.0,,False
+TRACERTE,postcourier.com.pg,"San Jose, US",8.0,,,,,,Baseline,8.0,,False
+TRACERTE,samoaobserver.ws,"San Francisco, US",7.0,,,,,,Baseline,7.0,,False
+TRACERTE,uol.com.br,"São Paulo, BR",14.0,,,,,,Baseline,14.0,,False
+TRACERTE,rte.ie,"San Francisco, US",9.0,,,,,,Baseline,9.0,,False
+TRACERTE,news24.com,"San Francisco, US",7.0,,,,,,Baseline,7.0,,False
+HTTPS,https://angolacables.co.ao,"Luanda, AO",0.000628,0.194863,0.434351,0.822604,1.599892,,Baseline,0.61,0.632,False
+HTTPS,https://jumia.com.ng,"San Francisco, US",0.000708,0.0023,0.054716,0.733546,0.733683,,Baseline,0.305,0.392,False
+HTTPS,https://egyptair.com,"Dublin, IE",0.000604,0.135486,0.450271,0.584976,0.585032,,Baseline,0.351,0.269,False
+HTTPS,https://safaricom.co.ke,"San Mateo, US",0.000761,0.002101,0.050648,0.052482,0.052511,,Baseline,0.032,0.028,False
+HTTPS,https://aliyun.com,"Shanghai, CN",0.000499,0.171917,0.572577,0.827117,0.827177,,Baseline,0.48,0.379,False
+HTTPS,https://rakuten.co.jp,"Tokyo, JP",0.000653,0.103738,0.252126,0.355584,0.355636,,Baseline,0.214,0.158,False
+HTTPS,https://naver.com,"Seoul, KR",0.000748,0.13924,0.32292,0.461913,0.461977,,Baseline,0.277,0.204,False
+HTTPS,https://thairath.co.th,"San Jose, US",0.000745,0.001896,0.049052,0.05721,0.057248,,Baseline,0.033,0.029,False
+HTTPS,https://vnexpress.net,"Hanoi, VN",0.000689,0.185381,0.423701,0.793474,1.359843,,Baseline,0.553,0.54,False
+HTTPS,https://moh.gov.my,"Kota Bharu, MY",0.000781,0.181679,0.411388,3.159217,3.341619,,Baseline,1.419,1.679,False
+HTTPS,https://arynews.tv,"Austin, US",0.000802,0.002523,0.059169,0.274876,0.290283,,Baseline,0.126,0.145,False
+HTTPS,https://hurriyet.com.tr,"Istanbul, TR",0.004497,0.205012,0.852706,1.053453,1.053584,,Baseline,0.634,0.495,False
+HTTPS,https://aljazeera.com,"Stockholm, SE",0.000723,0.168401,0.549426,0.717334,0.71739,,Baseline,0.431,0.329,False
+HTTPS,https://spiegel.de,"Frankfurt am Main, DE",0.000631,0.167754,0.381764,0.561205,0.561238,,Baseline,0.335,0.247,False
+HTTPS,https://lemond.fr,"Paris, FR",0.000659,0.145555,0.33781,0.488234,0.488262,,Baseline,0.292,0.215,False
+HTTPS,https://elpais.com,"San Jose, US",0.000395,0.002031,0.050653,0.057758,0.058986,,Baseline,0.034,0.03,False
+HTTPS,https://ansa.it,"Falkenstein, DE",0.000911,0.162316,0.371844,0.533508,0.533574,,Baseline,0.32,0.235,False
+HTTPS,https://aftonbladet.se,"Seattle, US",0.000726,0.001907,0.513255,0.705646,0.705684,,Baseline,0.385,0.359,False
+HTTPS,https://wp.pl,"Gdynia, PL",0.0007,0.176579,0.397259,0.573312,0.573381,,Baseline,0.344,0.252,False
+HTTPS,https://seznam.cz,"Prague, CZ",0.000399,0.16426,0.376577,0.540975,0.541012,,Baseline,0.325,0.238,False
+HTTPS,https://cnn.gr,"Lelystad, NL",0.000734,0.151461,0.348243,0.499227,0.49926,,Baseline,0.3,0.22,False
+HTTPS,https://amazon.com,"Ashburn, US",0.000897,0.057881,0.162995,0.220906,0.220979,,Baseline,0.133,0.099,False
+HTTPS,https://google.com,"Mountain View, US",0.000436,0.002072,0.05664,0.076,0.076063,,Baseline,0.042,0.038,False
+HTTPS,https://cbc.ca,"San Jose, US",0.000506,0.002254,0.049719,0.07011,0.077367,,Baseline,0.04,0.037,False
+HTTPS,https://nacion.com,"San José, CR",0.000649,0.131637,0.308922,0.439866,0.439922,,Baseline,0.264,0.194,False
+HTTPS,https://jamaicaobserver.com,"Boardman, US",0.000731,0.05109,0.252697,0.33402,0.334048,,Baseline,0.195,0.158,False
+HTTPS,https://lapatria.bo,"Phoenix, US",0.00052,0.019416,0.086478,0.131865,0.170156,,Baseline,0.082,0.072,False
+HTTPS,https://emol.com,"Santiago, CL",0.000683,0.16696,0.714303,0.880748,0.880776,,Baseline,0.529,0.416,False
+HTTPS,https://elobservador.com.uy,"San Jose, US",0.000668,0.000906,0.048204,0.048799,0.048845,,Baseline,0.029,0.026,False
+HTTPS,https://bbc.co.uk,"San Francisco, US",0.000454,0.001869,0.05365,0.058214,0.058245,,Baseline,0.034,0.03,False
+HTTPS,https://abc.net.au,"San Jose, US",0.000661,0.002323,0.049001,0.055105,0.056598,,Baseline,0.033,0.029,False
+HTTPS,https://nzherald.co.nz,"San Francisco, US",0.000394,0.001946,0.053477,0.076819,0.076881,,Baseline,0.042,0.038,False
+HTTPS,https://postcourier.com.pg,"San Jose, US",0.000571,0.00221,0.048644,0.306052,0.313913,,Baseline,0.134,0.162,False
+HTTPS,https://samoaobserver.ws,"San Francisco, US",0.000476,0.00218,0.053689,0.081721,0.081772,,Baseline,0.044,0.041,False
+HTTPS,https://uol.com.br,"São Paulo, BR",0.000404,0.183093,0.59608,0.779083,0.779112,,Baseline,0.468,0.357,False
+HTTPS,https://rte.ie,"San Francisco, US",0.000414,0.001983,0.055727,0.094354,0.094434,,Baseline,0.049,0.047,False
+HTTPS,https://news24.com,"San Francisco, US",0.000446,0.001983,0.054544,0.079041,0.079116,,Baseline,0.043,0.039,False
+UPLOAD,sse-test-bucket-af-south-1,"Cape Town, ZA",10485760.0,4.042,4.042,2.47,,,Baseline,2621442.638,5242878.241,False
+UPLOAD,sse-test-bucket-ap-east-1,"Hong Kong, HK",10485760.0,2.097,2.097,4.77,,,Baseline,2621442.241,5242878.506,False
+UPLOAD,sse-test-bucket-ap-northeast-1,"Tokyo, JP",10485760.0,1.497,1.497,6.68,,,Baseline,2621442.418,5242878.388,False
+UPLOAD,sse-test-bucket-ap-northeast-3,"Osaka, JP",10485760.0,1.486,1.486,6.73,,,Baseline,2621442.426,5242878.383,False
+UPLOAD,sse-test-bucket-ap-south-1,"Mumbai, IN",10485760.0,3.107,3.107,3.22,,,Baseline,2621442.359,5242878.428,False
+UPLOAD,sse-test-bucket-ap-south-2,"Hyderābād, IN",10485760.0,2.827,2.827,3.54,,,Baseline,2621442.298,5242878.468,False
+UPLOAD,sse-test-bucket-ap-southeast-1,"Singapore, SG",10485760.0,2.469,2.469,4.05,,,Baseline,2621442.247,5242878.502,False
+UPLOAD,sse-test-bucket-ap-southeast-2,"Sydney, AU",10485760.0,2.051,2.051,4.88,,,Baseline,2621442.246,5242878.503,False
+UPLOAD,sse-test-bucket-ap-southeast-4,"Melbourne, AU",10485760.0,2.147,2.147,4.66,,,Baseline,2621442.238,5242878.508,False
+UPLOAD,sse-test-bucket-ap-southeast-5,"Kuala Lumpur, MY",10485760.0,2.373,2.373,4.21,,,Baseline,2621442.239,5242878.507,False
+UPLOAD,sse-test-bucket-ca-central-1,"Montréal, CA",10485760.0,1.211,1.211,8.26,,,Baseline,2621442.67,5242878.22,False
+UPLOAD,sse-test-bucket-ca-west-1,"Calgary, CA",10485760.0,0.694,0.694,14.41,,,Baseline,2621443.95,5242877.367,False
+UPLOAD,sse-test-bucket-eu-central-1,"Frankfurt am Main, DE",10485760.0,2.413,2.413,4.14,,,Baseline,2621442.242,5242878.506,False
+UPLOAD,sse-test-bucket-eu-central-2,"Zürich, CH",10485760.0,2.194,2.194,4.56,,,Baseline,2621442.237,5242878.509,False
+UPLOAD,sse-test-bucket-eu-north-1,"Stockholm, SE",10485760.0,2.449,2.449,4.08,,,Baseline,2621442.244,5242878.504,False
+UPLOAD,sse-test-bucket-eu-south-1,"Milan, IT",10485760.0,2.236,2.236,4.47,,,Baseline,2621442.236,5242878.51,False
+UPLOAD,sse-test-bucket-eu-west-1,"Dublin, IE",10485760.0,1.863,1.863,5.37,,,Baseline,2621442.274,5242878.484,False
+UPLOAD,sse-test-bucket-eu-west-2,"London, GB",10485760.0,2.194,2.194,4.56,,,Baseline,2621442.237,5242878.509,False
+UPLOAD,sse-test-bucket-eu-west-3,"Paris, FR",10485760.0,2.104,2.104,4.75,,,Baseline,2621442.24,5242878.507,False
+UPLOAD,sse-test-bucket-il-central-1,"Tel Aviv, IL",10485760.0,2.995,2.995,3.34,,,Baseline,2621442.332,5242878.445,False
+UPLOAD,sse-test-bucket-me-central-1,"Dubai, AE",10485760.0,3.97,3.97,2.52,,,Baseline,2621442.615,5242878.257,False
+UPLOAD,sse-test-bucket-me-south-1,"Dār Kulayb, BH",10485760.0,2.923,2.923,3.42,,,Baseline,2621442.316,5242878.456,False
+UPLOAD,sse-test-bucket-mx-central-1,"Santiago de Querétaro, MX",10485760.0,1.012,1.012,9.88,,,Baseline,2621442.976,5242878.016,False
+UPLOAD,sse-test-bucket-sa-east-1,"São Paulo, BR",10485760.0,2.407,2.407,4.15,,,Baseline,2621442.241,5242878.506,False
+UPLOAD,sse-test-bucket-us-east-1,"Ashburn, US",10485760.0,0.896,0.896,11.16,,,Baseline,2621443.238,5242877.841,False
+UPLOAD,sse-test-bucket-us-west-1,"San Jose, US",10485760.0,0.294,0.294,33.98,,,Baseline,2621448.642,5242874.239,False
+DOWNLOAD,sse-test-bucket-af-south-1,"Cape Town, ZA",0.924,0.283,11.678,12.885,0.78,10485760.0,Baseline,1747631.092,4280791.426,False
+DOWNLOAD,sse-test-bucket-ap-east-1,"Hong Kong, HK",0.536,0.0,1.91,2.446,4.09,10485760.0,Baseline,1747628.164,4280792.861,False
+DOWNLOAD,sse-test-bucket-ap-northeast-1,"Tokyo, JP",0.406,0.0,1.329,1.735,5.76,10485760.0,Baseline,1747628.205,4280792.841,False
+DOWNLOAD,sse-test-bucket-ap-northeast-3,"Osaka, JP",0.405,0.0,1.31,1.715,5.83,10485760.0,Baseline,1747628.21,4280792.838,False
+DOWNLOAD,sse-test-bucket-ap-south-1,"Mumbai, IN",0.758,0.229,11.116,12.104,0.83,10485760.0,Baseline,1747630.84,4280791.55,False
+DOWNLOAD,sse-test-bucket-ap-south-2,"Hyderābād, IN",0.719,0.0,2.362,3.081,3.25,10485760.0,Baseline,1747628.235,4280792.826,False
+DOWNLOAD,sse-test-bucket-ap-southeast-1,"Singapore, SG",0.571,0.0,1.785,2.356,4.24,10485760.0,Baseline,1747628.159,4280792.863,False
+DOWNLOAD,sse-test-bucket-ap-southeast-2,"Sydney, AU",0.487,0.0,1.468,1.955,5.11,10485760.0,Baseline,1747628.17,4280792.858,False
+DOWNLOAD,sse-test-bucket-ap-southeast-4,"Melbourne, AU",0.516,0.0,1.747,2.263,4.42,10485760.0,Baseline,1747628.158,4280792.864,False
+DOWNLOAD,sse-test-bucket-ap-southeast-5,"Kuala Lumpur, MY",0.6,0.0,1.966,2.567,3.9,10485760.0,Baseline,1747628.172,4280792.857,False
+DOWNLOAD,sse-test-bucket-ca-central-1,"Montréal, CA",0.314,0.0,1.131,1.445,6.92,10485760.0,Baseline,1747628.302,4280792.793,False
+DOWNLOAD,sse-test-bucket-ca-west-1,"Calgary, CA",0.222,0.0,0.798,1.02,9.8,10485760.0,Baseline,1747628.64,4280792.627,False
+DOWNLOAD,sse-test-bucket-eu-central-1,"Frankfurt am Main, DE",0.524,0.0,1.549,2.073,4.82,10485760.0,Baseline,1747628.161,4280792.862,False
+DOWNLOAD,sse-test-bucket-eu-central-2,"Zürich, CH",0.527,0.0,1.591,2.118,4.72,10485760.0,Baseline,1747628.159,4280792.863,False
+DOWNLOAD,sse-test-bucket-eu-north-1,"Stockholm, SE",0.588,0.0,1.734,2.322,4.31,10485760.0,Baseline,1747628.159,4280792.863,False
+DOWNLOAD,sse-test-bucket-eu-south-1,"Milan, IT",0.547,0.0,1.737,2.284,4.38,10485760.0,Baseline,1747628.158,4280792.864,False
+DOWNLOAD,sse-test-bucket-eu-west-1,"Dublin, IE",0.452,0.0,1.51,1.962,5.1,10485760.0,Baseline,1747628.171,4280792.857,False
+DOWNLOAD,sse-test-bucket-eu-west-2,"London, GB",0.512,0.0,1.65,2.162,4.63,10485760.0,Baseline,1747628.159,4280792.863,False
+DOWNLOAD,sse-test-bucket-eu-west-3,"Paris, FR",0.508,0.0,1.756,2.264,4.42,10485760.0,Baseline,1747628.158,4280792.864,False
+DOWNLOAD,sse-test-bucket-il-central-1,"Tel Aviv, IL",0.851,0.0,2.102,2.954,3.39,10485760.0,Baseline,1747628.216,4280792.835,False
+DOWNLOAD,sse-test-bucket-me-central-1,"Dubai, AE",0.827,0.251,11.39,12.468,0.8,10485760.0,Baseline,1747630.956,4280791.493,False
+DOWNLOAD,sse-test-bucket-me-south-1,"Dār Kulayb, BH",0.725,0.218,11.013,11.956,0.84,10485760.0,Baseline,1747630.792,4280791.573,False
+DOWNLOAD,sse-test-bucket-mx-central-1,"Santiago de Querétaro, MX",0.289,0.0,1.015,1.304,7.67,10485760.0,Baseline,1747628.38,4280792.755,False
+DOWNLOAD,sse-test-bucket-sa-east-1,"São Paulo, BR",0.601,0.0,1.954,2.555,3.91,10485760.0,Baseline,1747628.17,4280792.858,False
+DOWNLOAD,sse-test-bucket-us-east-1,"Ashburn, US",0.249,0.0,0.971,1.22,8.2,10485760.0,Baseline,1747628.44,4280792.725,False
+DOWNLOAD,sse-test-bucket-us-west-1,"San Jose, US",0.083,0.0,0.588,0.67,14.91,10485760.0,Baseline,1747629.375,4280792.267,False
+IPERF3-TCP,13.247.37.65,"Cape Town, ZA",,108680880.0,86.94,84.55,0.0,,Baseline,27170262.872,54340411.418,False
+IPERF3-UDP-UL-100M,13.247.37.65,"Cape Town, ZA",,124988464.0,99.99,0.007836591,0.0,0.0,Baseline,24997712.8,55896529.201,False
+IPERF3-UDP-DL-100M,13.247.37.65,"Cape Town, ZA",,129076168.0,100.0,0.011245701,257.0,0.2883072884531248,Baseline,25815305.06,57724577.237,False
+IPERF3-UDP-UL-500M,13.247.37.65,"Cape Town, ZA",,624948112.0,499.96,0.03606514,46670.0,10.813403337395794,Baseline,124999058.562,279480017.919,False
+IPERF3-UDP-DL-500M,13.247.37.65,"Cape Town, ZA",,645448896.0,500.0,0.004055973,1636.0,0.3670202264936557,Baseline,129090206.474,288653282.639,False
+IPERF3-UDP-UL-1000M,13.247.37.65,"Cape Town, ZA",,1249907808.0,999.92,0.00319388,310586.0,35.98093596355868,Baseline,250043885.981,558940940.615,False
+IPERF3-UDP-DL-1000M,13.247.37.65,"Cape Town, ZA",,1256441184.0,973.42,0.006701243,3374.0,0.388840486,Baseline,251289106.363,561897093.332,False
+IPERF3-UDP-UL-5000M,13.247.37.65,"Cape Town, ZA",,6075306992.0,4860.24,0.001837476,1572606.0,37.48178472,Baseline,1215376899.145,2716783598.545,False
+IPERF3-UDP-DL-5000M,13.247.37.65,"Cape Town, ZA",,3917834776.0,3037.3,0.004873171,7654.0,0.28288564050461124,Baseline,783569093.518,1752107781.397,False
+IPERF3-TCP,18.182.224.145,"Tokyo, JP",,331168512.0,264.93,261.06,0.0,,Baseline,82792259.498,165584168.335,False
+IPERF3-UDP-UL-100M,18.182.224.145,"Tokyo, JP",,124989912.0,99.99,0.007327543,0.0,0.0,Baseline,24998002.399,55897176.767,False
+IPERF3-UDP-DL-100M,18.182.224.145,"Tokyo, JP",,126814392.0,99.99,0.002588735,232.0,0.2649036869569189,Baseline,25362944.851,56713083.06,False
+IPERF3-UDP-UL-500M,18.182.224.145,"Tokyo, JP",,624949560.0,499.96,0.001954069,1705.0,0.39504628181512763,Baseline,124990353.071,279485693.168,False
+IPERF3-UDP-DL-500M,18.182.224.145,"Tokyo, JP",,633127864.0,499.02,0.008924738,1765.0,0.40366569619182013,Baseline,126626025.687,283143135.3,False
+IPERF3-UDP-UL-1000M,18.182.224.145,"Tokyo, JP",,1249913600.0,999.93,0.003603057,322656.0,37.37905468,Baseline,250047458.663,558942182.532,False
+IPERF3-UDP-DL-1000M,18.182.224.145,"Tokyo, JP",,1268154056.0,999.99,0.005283577,2944.0,0.33615095735655637,Baseline,253631600.066,567135294.043,False
+IPERF3-UDP-UL-5000M,18.182.224.145,"Tokyo, JP",,4008217488.0,3206.57,0.006050386,789952.0,28.53763548,Baseline,801802135.023,1792440705.889,False
+IPERF3-UDP-DL-5000M,18.182.224.145,"Tokyo, JP",,4781145408.0,3769.53,0.002749705,12376.0,0.374814955,Baseline,956232310.782,2138191423.358,False
+IPERF3-TCP,54.179.99.200,"Singapore, SG",,198549488.0,158.84,156.21,0.0,,Baseline,49637450.762,99274691.492,False
+IPERF3-UDP-UL-100M,54.179.99.200,"Singapore, SG",,124989912.0,99.99,0.007402244,0.0,0.0,Baseline,24998002.399,55897176.767,False
+IPERF3-UDP-DL-100M,54.179.99.200,"Singapore, SG",,127577488.0,100.0,0.008572077,240.0,0.27239915556261773,Baseline,25515565.656,57054349.069,False
+IPERF3-UDP-UL-500M,54.179.99.200,"Singapore, SG",,624948112.0,499.95,0.00155188,0.0,0.0,Baseline,124989722.39,279485236.272,False
+IPERF3-UDP-DL-500M,54.179.99.200,"Singapore, SG",,634719216.0,497.2,0.2929728642892253,1671.0,0.381209193,Baseline,126944276.975,283854820.234,False
+IPERF3-UDP-UL-1000M,54.179.99.200,"Singapore, SG",,1249909256.0,999.92,0.000590931,177425.0,20.554404151080227,Baseline,250017540.295,558956466.874,False
+IPERF3-UDP-DL-1000M,54.179.99.200,"Singapore, SG",,1276170184.0,999.94,0.003518846,3332.0,0.37806368308006166,Baseline,255234903.264,570720172.09,False
+IPERF3-UDP-UL-5000M,54.179.99.200,"Singapore, SG",,6075440208.0,4860.35,0.006598429,2147950.0,51.193518387433365,Baseline,1215518613.91,2716778921.392,False
+IPERF3-UDP-DL-5000M,54.179.99.200,"Singapore, SG",,3668982944.0,2875.49,0.007206228,16771.0,0.6618839163510704,Baseline,733800518.232,1640816857.61,False
+IPERF3-TCP,43.204.17.203,"Mumbai, IN",,131051168.0,104.84,102.51,0.0,,Baseline,32762843.838,65525549.442,False
+IPERF3-UDP-UL-100M,43.204.17.203,"Mumbai, IN",,124989912.0,99.99,0.03185284,0.0,0.0,Baseline,24998002.404,55897176.764,False
+IPERF3-UDP-DL-100M,43.204.17.203,"Mumbai, IN",,128330448.0,100.0,0.008536239,248.0,0.27982759,Baseline,25666159.258,57391082.122,False
+IPERF3-UDP-UL-500M,43.204.17.203,"Mumbai, IN",,624948112.0,499.96,0.004601587,7430.0,1.7215253224094866,Baseline,124991208.737,279484405.397,False
+IPERF3-UDP-DL-500M,43.204.17.203,"Mumbai, IN",,641636312.0,499.98,0.003166787,1416.0,0.3195529868951681,Baseline,128327645.661,286948267.844,False
+IPERF3-UDP-UL-1000M,43.204.17.203,"Mumbai, IN",,1249906360.0,999.92,0.000476349,21320.0,2.469893824686195,Baseline,249985736.478,558972621.649,False
+IPERF3-UDP-DL-1000M,43.204.17.203,"Mumbai, IN",,1282928000.0,999.99,0.007495209,3104.0,0.35033860045146725,Baseline,256586420.87,573742384.769,False
+IPERF3-UDP-UL-5000M,43.204.17.203,"Mumbai, IN",,6075276584.0,4860.21,0.005364947,1975987.0,47.09627843998748,Baseline,1215451495.662,2716724948.587,False
+IPERF3-UDP-DL-5000M,43.204.17.203,"Mumbai, IN",,3811451664.0,2969.42,0.007145888,12330.0,0.46842624737008864,Baseline,762293392.779,1704531292.159,False
+IPERF3-TCP,13.237.82.59,"Sydney, AU",,251362288.0,201.09,198.36,0.0,,Baseline,62840671.863,125681077.425,False
+IPERF3-UDP-UL-100M,13.237.82.59,"Sydney, AU",,124989912.0,99.99,0.012315420126735097,0.0,0.0,Baseline,24998002.4,55897176.766,False
+IPERF3-UDP-DL-100M,13.237.82.59,"Sydney, AU",,127227072.0,99.99,0.008660572,249.0,0.28339251570609125,Baseline,25445484.256,56897637.263,False
+IPERF3-UDP-UL-500M,13.237.82.59,"Sydney, AU",,624948112.0,499.96,0.003040787,8291.0,1.921018364481434,Baseline,124991380.977,279484309.116,False
+IPERF3-UDP-DL-500M,13.237.82.59,"Sydney, AU",,642764304.0,499.96,0.005682843,2049.0,0.4615925280131922,Baseline,128553370.685,287452650.417,False
+IPERF3-UDP-UL-1000M,13.237.82.59,"Sydney, AU",,1249904912.0,999.92,0.00185914,93650.0,10.849241306125853,Baseline,249999914.554,558963887.793,False
+IPERF3-UDP-DL-1000M,13.237.82.59,"Sydney, AU",,1272166464.0,999.99,0.002741477,2030.0,0.23105781225812913,Baseline,254433898.845,568929799.651,False
+IPERF3-UDP-UL-5000M,13.237.82.59,"Sydney, AU",,6075447448.0,4860.35,0.002861734,2355727.0,56.14553867,Baseline,1215561618.3,2716758960.759,False
+IPERF3-UDP-DL-5000M,13.237.82.59,"Sydney, AU",,4165393544.0,3274.2,0.004889838,8901.0,0.30942209574807944,Baseline,833081143.903,1862819262.224,False
+IPERF3-TCP,63.177.5.144,"Frankfurt am Main, DE",,229748744.0,183.8,181.05,0.0,,Baseline,57437277.213,114874311.192,False
+IPERF3-UDP-UL-100M,63.177.5.144,"Frankfurt am Main, DE",,124989912.0,99.99,0.008488819,0.0,0.0,Baseline,24998002.4,55897176.767,False
+IPERF3-UDP-DL-100M,63.177.5.144,"Frankfurt am Main, DE",,127313952.0,99.99,0.014778448,223.0,0.253628133,Baseline,25462855.052,56936494.09,False
+IPERF3-UDP-UL-500M,63.177.5.144,"Frankfurt am Main, DE",,624948112.0,499.96,0.00156869,9979.0,2.312126674606227,Baseline,124991718.655,279484120.359,False
+IPERF3-UDP-DL-500M,63.177.5.144,"Frankfurt am Main, DE",,636653744.0,499.99,0.003643697,1398.0,0.3179599616082679,Baseline,127331128.462,284719997.706,False
+IPERF3-UDP-UL-1000M,63.177.5.144,"Frankfurt am Main, DE",,1249907808.0,999.92,0.027311836,62107.0,7.195005537560415,Baseline,249994184.428,558968709.124,False
+IPERF3-UDP-DL-1000M,63.177.5.144,"Frankfurt am Main, DE",,1274079272.0,999.96,0.005003894,3361.0,0.38197999974996844,Baseline,254816726.669,569785084.571,False
+IPERF3-UDP-UL-5000M,63.177.5.144,"Frankfurt am Main, DE",,6075655960.0,4860.52,0.002655068,453422.0,10.8063238,Baseline,1215222850.666,2717064715.184,False
+IPERF3-UDP-DL-5000M,63.177.5.144,"Frankfurt am Main, DE",,2293853544.0,1801.02,0.005243499,16490.0,1.0409348086958772,Baseline,458774367.213,1025840445.871,False
+IPERF3-TCP,63.34.149.41,"Dublin, IE",,253062240.0,202.45,199.37,0.0,,Baseline,63265660.455,126531053.03,False
+IPERF3-UDP-UL-100M,63.34.149.41,"Dublin, IE",,124988464.0,99.99,0.007318706,0.0,0.0,Baseline,24997712.799,55896529.201,False
+IPERF3-UDP-DL-100M,63.34.149.41,"Dublin, IE",,127089512.0,99.99,0.00942338,233.0,0.26546958493317685,Baseline,25417969.053,56836120.352,False
+IPERF3-UDP-UL-500M,63.34.149.41,"Dublin, IE",,624948112.0,499.96,0.001354228,4774.0,1.1061321519761629,Baseline,124990677.413,279484702.405,False
+IPERF3-UDP-DL-500M,63.34.149.41,"Dublin, IE",,635764672.0,499.99,0.006747479,1662.0,0.3785325146220141,Baseline,127153366.875,284322363.097,False
+IPERF3-UDP-UL-1000M,63.34.149.41,"Dublin, IE",,1249906360.0,999.92,0.001553497,13014.0,1.5076547014289934,Baseline,249984075.086,558973550.348,False
+IPERF3-UDP-DL-1000M,63.34.149.41,"Dublin, IE",,1270536016.0,999.94,0.003424909,2956.0,0.33688836413119044,Baseline,254107994.456,568200537.603,False
+IPERF3-UDP-UL-5000M,63.34.149.41,"Dublin, IE",,6075525640.0,4860.42,0.001925354,19265.0,0.45914907866309324,Baseline,1215109953.176,2717054968.673,False
+IPERF3-UDP-DL-5000M,63.34.149.41,"Dublin, IE",,3809428808.0,2997.79,0.00548613,16704.0,0.634934874,Baseline,761889702.086,1703626151.242,False
+IPERF3-TCP,54.232.52.243,"São Paulo, BR",,190185328.0,152.15,149.5,0.0,,Baseline,47546407.412,95092613.725,False
+IPERF3-UDP-UL-100M,54.232.52.243,"São Paulo, BR",,124989912.0,99.99,0.007292441,0.0,0.0,Baseline,24998002.399,55897176.767,False
+IPERF3-UDP-DL-100M,54.232.52.243,"São Paulo, BR",,127688984.0,99.98,0.006847253,266.0,0.30164544186521214,Baseline,25537870.058,57104208.688,False
+IPERF3-UDP-UL-500M,54.232.52.243,"São Paulo, BR",,624949560.0,499.96,0.001342091,7481.0,1.7333379673073135,Baseline,124991508.539,279485047.259,False
+IPERF3-UDP-DL-500M,54.232.52.243,"São Paulo, BR",,640115912.0,479.56,0.015387669806592763,1642.0,0.3714352284371897,Baseline,128023606.789,286268301.302,False
+IPERF3-UDP-UL-1000M,54.232.52.243,"São Paulo, BR",,1249907808.0,999.92,0.00033443,88797.0,10.287003183517996,Baseline,249999523.041,558965725.421,False
+IPERF3-UDP-DL-1000M,54.232.52.243,"São Paulo, BR",,1276785584.0,999.97,0.005320148,3319.0,0.3764071321156145,Baseline,255357980.67,570995388.787,False
+IPERF3-UDP-UL-5000M,54.232.52.243,"São Paulo, BR",,6075431520.0,4860.34,0.001533362,247116.0,5.889688112228117,Baseline,1215136700.446,2716987403.883,False
+IPERF3-UDP-DL-5000M,54.232.52.243,"São Paulo, BR",,2137582488.0,1674.33,0.003983364,5361.0,0.3631545469509853,Baseline,427517904.739,955955163.524,False
+IPERF3-TCP,54.237.15.83,"Ashburn, US",,624112120.0,499.28,496.44,0.0,,Baseline,156028278.93,312055894.047,False
+IPERF3-UDP-UL-100M,54.237.15.83,"Ashburn, US",,124989912.0,99.99,0.005383952,0.0,0.0,Baseline,24998002.399,55897176.767,False
+IPERF3-UDP-DL-100M,54.237.15.83,"Ashburn, US",,126217816.0,100.0,0.025868575,248.0,0.2845113403008019,Baseline,25243632.862,56446284.367,False
+IPERF3-UDP-UL-500M,54.237.15.83,"Ashburn, US",,624948112.0,499.96,0.001356124,14771.0,3.4224294128277966,Baseline,124992677.277,279483584.512,False
+IPERF3-UDP-DL-500M,54.237.15.83,"Ashburn, US",,630944280.0,499.89,0.004510954,1605.0,0.36834314434231813,Baseline,126189277.053,282166624.644,False
+IPERF3-UDP-UL-1000M,54.237.15.83,"Ashburn, US",,1249906360.0,999.92,0.001150507,182793.0,21.17632748104426,Baseline,250018034.819,558954571.837,False
+IPERF3-UDP-DL-1000M,54.237.15.83,"Ashburn, US",,1262175264.0,999.97,0.004582528,3391.0,0.3890242615307663,Baseline,252435931.073,564461446.997,False
+IPERF3-UDP-UL-5000M,54.237.15.83,"Ashburn, US",,6075602384.0,4860.48,0.003521637,136333.0,3.2492281673974666,Baseline,1215148716.147,2717076201.329,False
+IPERF3-UDP-DL-5000M,54.237.15.83,"Ashburn, US",,3826057640.0,3031.19,0.005072381,17010.0,0.6437561144531007,Baseline,765215536.368,1711062753.043,False
+IPERF3-TCP,52.52.79.177,"San Jose, US",,5982162944.0,4785.69,4764.3,628.0,,Baseline,1495543280.498,2991079775.669,False
+IPERF3-UDP-UL-100M,52.52.79.177,"San Jose, US",,124989912.0,99.99,0.006505584,0.0,0.0,Baseline,24998002.399,55897176.767,False
+IPERF3-UDP-DL-100M,52.52.79.177,"San Jose, US",,125502504.0,100.0,0.011974172,249.0,0.287286698,Baseline,25100570.66,56126387.005,False
+IPERF3-UDP-UL-500M,52.52.79.177,"San Jose, US",,624952456.0,499.96,0.005799893,4626.0,1.0718332147813816,Baseline,124991516.608,279486661.651,False
+IPERF3-UDP-DL-500M,52.52.79.177,"San Jose, US",,627376408.0,499.74,0.012089307613945374,1627.0,0.3755155549298245,Baseline,125475707.026,280571021.334,False
+IPERF3-UDP-UL-1000M,52.52.79.177,"San Jose, US",,1249906360.0,999.92,0.000957912,162185.0,18.788917915418878,Baseline,250013912.742,558956874.958,False
+IPERF3-UDP-DL-1000M,52.52.79.177,"San Jose, US",,1165451760.0,928.64,0.006525447,2708.0,0.33645184936697853,Baseline,233091079.397,521205465.345,False
+IPERF3-UDP-UL-5000M,52.52.79.177,"San Jose, US",,3975081456.0,3180.06,0.001284568,1601344.0,58.33204017744284,Baseline,795337207.679,1777531207.641,False
+IPERF3-UDP-DL-5000M,52.52.79.177,"San Jose, US",,2247288760.0,1790.22,0.014440803,3577.0,0.23047754664158068,Baseline,449458825.493,1005017486.387,False
+PING,angolacables.co.ao,"Luanda, AO",467.831,469.222,473.03,2.201,0.0,,Cloudflare WARP,282.457,256.85,False
+PING,jumia.com.ng,"San Francisco, US",2.542,3.783,7.377,2.075,0.0,,Cloudflare WARP,3.155,2.726,False
+PING,0.ie.pool.ntp.org,"Dublin, IE",,,,,100.0,,Cloudflare WARP,100.0,,False
+PING,safaricom.co.ke,"San Mateo, US",3.324,4.601,8.16,2.055,0.0,,Cloudflare WARP,3.628,3.05,False
+PING,aliyun.com,"Shanghai, CN",167.898,168.968,171.383,1.404,0.0,,Cloudflare WARP,101.931,92.419,False
+PING,rakuten.co.jp,"Tokyo, JP",107.699,108.941,112.149,1.855,0.0,,Cloudflare WARP,66.129,59.546,False
+PING,2.kr.pool.ntp.org,"Seoul, KR",143.326,144.535,147.849,1.914,0.0,,Cloudflare WARP,87.525,79.045,False
+PING,thairath.co.th,"San Jose, US",3.226,4.36,7.414,1.766,0.0,,Cloudflare WARP,3.353,2.797,False
+PING,1.vn.pool.ntp.org,"Hanoi, VN",211.342,212.637,214.983,1.394,0.0,,Cloudflare WARP,128.071,116.285,False
+PING,mimos.my,"Bukit Jalil, MY",176.031,177.015,179.679,1.54,0.0,,Cloudflare WARP,106.853,96.851,False
+PING,arynews.tv,"Austin, US",2.256,3.851,8.167,2.497,0.0,,Cloudflare WARP,3.354,3.025,False
+PING,hurriyet.com.tr,"Istanbul, TR",195.632,196.825,199.683,1.656,0.0,,Cloudflare WARP,118.759,107.668,False
+PING,1.us.pool.ntp.org,"Washington, US",69.757,70.785,73.619,1.636,0.0,,Cloudflare WARP,43.159,38.682,False
+PING,spiegel.de,"Frankfurt am Main, DE",167.084,167.787,169.668,1.087,0.0,,Cloudflare WARP,101.125,91.824,False
+PING,lemond.fr,"Paris, FR",151.997,152.94,155.496,1.478,0.0,,Cloudflare WARP,92.382,83.67,False
+PING,elpais.com,"San Jose, US",3.808,5.469,10.182,2.722,0.0,,Cloudflare WARP,4.436,3.778,False
+PING,aftonbladet.se,"Seattle, US",3.261,4.303,7.272,1.714,0.0,,Cloudflare WARP,3.31,2.747,False
+PING,wp.pl,"Gdynia, PL",170.488,171.632,174.939,1.909,0.0,,Cloudflare WARP,103.794,93.895,False
+PING,seznam.cz,"Prague, CZ",166.255,167.272,169.93,1.536,0.0,,Cloudflare WARP,100.999,91.509,False
+PING,cnn.gr,"Lelystad, NL",152.384,153.53,156.132,1.529,0.0,,Cloudflare WARP,92.715,83.952,False
+PING,amazon.com,"Ashburn, US",76.39,77.391,79.464,1.23,0.0,,Cloudflare WARP,46.895,42.264,False
+PING,google.com,"Mountain View, US",3.73,4.723,7.498,1.603,0.0,,Cloudflare WARP,3.511,2.889,False
+PING,cbc.ca,"Santa Clara, US",3.432,4.485,7.337,1.65,0.0,,Cloudflare WARP,3.381,2.797,False
+PING,1.cr.pool.ntp.org,"San Ramón, CR",128.239,129.338,132.424,1.781,0.0,,Cloudflare WARP,78.356,70.736,False
+PING,3.us.pool.ntp.org,"San Jose, US",3.202,4.117,6.205,1.213,0.0,,Cloudflare WARP,2.947,2.436,False
+PING,lapatria.bo,"Phoenix, US",22.641,23.339,25.15,1.046,0.0,,Cloudflare WARP,14.435,12.738,False
+PING,emol.com,"Santiago, CL",162.402,163.463,166.356,1.671,0.0,,Cloudflare WARP,98.778,89.423,False
+PING,za.yahoo.com,"San Jose, US",5.148,6.472,9.182,1.618,0.0,,Cloudflare WARP,4.484,3.701,False
+PING,bbc.co.uk,"San Francisco, US",3.37,4.582,7.632,1.769,0.0,,Cloudflare WARP,3.471,2.894,False
+PING,abc.net.au,"San Jose, US",3.398,4.322,6.528,1.283,0.0,,Cloudflare WARP,3.106,2.561,False
+PING,nzherald.co.nz,"San Francisco, US",2.313,3.381,6.439,1.765,0.0,,Cloudflare WARP,2.78,2.384,False
+PING,postcourier.com.pg,"Santa Clara, US",3.414,4.505,7.518,1.74,0.0,,Cloudflare WARP,3.435,2.85,False
+PING,samoaobserver.ws,"San Francisco, US",2.331,3.622,7.027,1.969,0.0,,Cloudflare WARP,2.99,2.604,False
+PING,uol.com.br,"São Paulo, BR",177.418,178.885,181.414,1.572,0.0,,Cloudflare WARP,107.858,97.755,False
+PING,rte.ie,"San Francisco, US",2.257,3.504,6.712,1.856,0.0,,Cloudflare WARP,2.866,2.49,False
+PING,news24.com,"San Francisco, US",2.201,3.828,7.832,2.318,0.0,,Cloudflare WARP,3.236,2.909,False
+TRACERTE,angolacables.co.ao,"Luanda, AO",24.0,,,,,,Cloudflare WARP,24.0,,False
+TRACERTE,jumia.com.ng,"San Francisco, US",2.0,,,,,,Cloudflare WARP,2.0,,False
+TRACERTE,0.ie.pool.ntp.org,"Dublin, IE",20.0,,,,,,Cloudflare WARP,20.0,,False
+TRACERTE,safaricom.co.ke,"San Mateo, US",6.0,,,,,,Cloudflare WARP,6.0,,False
+TRACERTE,aliyun.com,"Shanghai, CN",19.0,,,,,,Cloudflare WARP,19.0,,False
+TRACERTE,rakuten.co.jp,"Tokyo, JP",18.0,,,,,,Cloudflare WARP,18.0,,False
+TRACERTE,2.kr.pool.ntp.org,"Busan, KR",11.0,,,,,,Cloudflare WARP,11.0,,False
+TRACERTE,thairath.co.th,"San Jose, US",11.0,,,,,,Cloudflare WARP,11.0,,False
+TRACERTE,1.vn.pool.ntp.org,"Hanoi, VN",15.0,,,,,,Cloudflare WARP,15.0,,False
+TRACERTE,mimos.my,"Bukit Jalil, MY",11.0,,,,,,Cloudflare WARP,11.0,,False
+TRACERTE,arynews.tv,"Austin, US",2.0,,,,,,Cloudflare WARP,2.0,,False
+TRACERTE,hurriyet.com.tr,"Istanbul, TR",18.0,,,,,,Cloudflare WARP,18.0,,False
+TRACERTE,1.us.pool.ntp.org,"Kansas City, US",13.0,,,,,,Cloudflare WARP,13.0,,False
+TRACERTE,spiegel.de,"Frankfurt am Main, DE",13.0,,,,,,Cloudflare WARP,13.0,,False
+TRACERTE,lemond.fr,"Paris, FR",21.0,,,,,,Cloudflare WARP,21.0,,False
+TRACERTE,elpais.com,"Santa Clara, US",9.0,,,,,,Cloudflare WARP,9.0,,False
+TRACERTE,aftonbladet.se,"Seattle, US",10.0,,,,,,Cloudflare WARP,10.0,,False
+TRACERTE,wp.pl,"Gdynia, PL",20.0,,,,,,Cloudflare WARP,20.0,,False
+TRACERTE,seznam.cz,"Mladá Boleslav, CZ",17.0,,,,,,Cloudflare WARP,17.0,,False
+TRACERTE,cnn.gr,"Lelystad, NL",16.0,,,,,,Cloudflare WARP,16.0,,False
+TRACERTE,amazon.com,"Ashburn, US",20.0,,,,,,Cloudflare WARP,20.0,,False
+TRACERTE,google.com,"Sunnyvale, US",9.0,,,,,,Cloudflare WARP,9.0,,False
+TRACERTE,cbc.ca,"Santa Clara, US",10.0,,,,,,Cloudflare WARP,10.0,,False
+TRACERTE,1.cr.pool.ntp.org,"San Rafael, CR",7.0,,,,,,Cloudflare WARP,7.0,,False
+TRACERTE,3.us.pool.ntp.org,"Centralia, US",13.0,,,,,,Cloudflare WARP,13.0,,False
+TRACERTE,lapatria.bo,"Phoenix, US",14.0,,,,,,Cloudflare WARP,14.0,,False
+TRACERTE,emol.com,"Santiago, CL",12.0,,,,,,Cloudflare WARP,12.0,,False
+TRACERTE,za.yahoo.com,"San Jose, US",8.0,,,,,,Cloudflare WARP,8.0,,False
+TRACERTE,bbc.co.uk,"San Francisco, US",6.0,,,,,,Cloudflare WARP,6.0,,False
+TRACERTE,abc.net.au,"San Jose, US",9.0,,,,,,Cloudflare WARP,9.0,,False
+TRACERTE,nzherald.co.nz,"San Francisco, US",2.0,,,,,,Cloudflare WARP,2.0,,False
+TRACERTE,postcourier.com.pg,"Santa Clara, US",10.0,,,,,,Cloudflare WARP,10.0,,False
+TRACERTE,samoaobserver.ws,"San Francisco, US",2.0,,,,,,Cloudflare WARP,2.0,,False
+TRACERTE,uol.com.br,"São Paulo, BR",18.0,,,,,,Cloudflare WARP,18.0,,False
+TRACERTE,rte.ie,"San Francisco, US",2.0,,,,,,Cloudflare WARP,2.0,,False
+TRACERTE,news24.com,"San Francisco, US",2.0,,,,,,Cloudflare WARP,2.0,,False
+HTTPS,https://angolacables.co.ao,"Luanda, AO",,,,,,,Cloudflare WARP,,,True
+HTTPS,https://jumia.com.ng,"San Francisco, US",0.000701,0.007946,0.05963,0.272031,0.274082,,Cloudflare WARP,0.123,0.139,False
+HTTPS,https://egyptair.com,"Dublin, IE",0.000663,0.151675,0.20255,0.646173,0.648311,,Cloudflare WARP,0.33,0.299,False
+HTTPS,https://safaricom.co.ke,"San Mateo, US",0.000764,0.054776,0.105369,0.206655,0.206697,,Cloudflare WARP,0.115,0.092,False
+HTTPS,https://aliyun.com,"Shanghai, CN",0.00083,0.154144,0.204471,0.913842,0.918344,,Cloudflare WARP,0.438,0.443,False
+HTTPS,https://rakuten.co.jp,"Tokyo, JP",0.000568,0.129177,0.180004,0.427753,0.429862,,Cloudflare WARP,0.233,0.19,False
+HTTPS,https://naver.com,"Seoul, KR",0.000707,0.158587,0.208714,0.532857,0.534957,,Cloudflare WARP,0.287,0.238,False
+HTTPS,https://thairath.co.th,"San Jose, US",0.000773,0.012342,0.063115,0.110205,0.110244,,Cloudflare WARP,0.059,0.052,False
+HTTPS,https://vnexpress.net,"Hanoi, VN",0.000643,0.235491,0.285714,0.977336,1.662341,,Cloudflare WARP,0.632,0.681,False
+HTTPS,https://moh.gov.my,"Kota Bharu, MY",0.000732,0.200714,0.25205,2.367633,2.560171,,Cloudflare WARP,1.076,1.272,False
+HTTPS,https://arynews.tv,"Austin, US",0.000604,0.00728,0.058153,0.246025,0.486805,,Cloudflare WARP,0.16,0.208,False
+HTTPS,https://hurriyet.com.tr,"Istanbul, TR",0.000601,0.200839,0.251723,1.454957,1.457242,,Cloudflare WARP,0.673,0.721,False
+HTTPS,https://aljazeera.com,"Stockholm, SE",0.000697,0.181107,0.231785,0.97091,0.972972,,Cloudflare WARP,0.471,0.465,False
+HTTPS,https://spiegel.de,"Frankfurt am Main, DE",0.000596,0.179844,0.231621,0.806626,0.808654,,Cloudflare WARP,0.405,0.377,False
+HTTPS,https://lemond.fr,"Paris, FR",0.000603,0.164091,0.214138,0.696882,0.696928,,Cloudflare WARP,0.355,0.322,False
+HTTPS,https://elpais.com,"San Jose, US",0.00074,0.011077,0.061672,0.10987,0.112227,,Cloudflare WARP,0.059,0.053,False
+HTTPS,https://ansa.it,"Falkenstein, DE",0.00072,0.171209,0.222019,0.725316,0.727478,,Cloudflare WARP,0.369,0.336,False
+HTTPS,https://aftonbladet.se,"Seattle, US",0.000661,0.012942,0.063507,0.730847,0.730909,,Cloudflare WARP,0.308,0.387,False
+HTTPS,https://wp.pl,"Gdynia, PL",0.000604,0.19196,0.241858,0.791644,0.793769,,Cloudflare WARP,0.404,0.366,False
+HTTPS,https://seznam.cz,"Mladá Boleslav, CZ",0.000638,0.172336,0.221973,0.774992,0.77503,,Cloudflare WARP,0.389,0.362,False
+HTTPS,https://cnn.gr,"Lelystad, NL",0.000628,0.151275,0.201382,0.640465,0.640506,,Cloudflare WARP,0.327,0.296,False
+HTTPS,https://amazon.com,"Ashburn, US",0.000654,0.083868,0.133827,0.298639,0.300586,,Cloudflare WARP,0.164,0.133,False
+HTTPS,https://google.com,"San Jose, US",0.000707,0.008936,0.058649,0.106246,0.108224,,Cloudflare WARP,0.057,0.051,False
+HTTPS,https://cbc.ca,"Santa Clara, US",0.000528,0.010795,0.0608,0.132553,0.134566,,Cloudflare WARP,0.068,0.064,False
+HTTPS,https://nacion.com,"San José, CR",0.000657,0.127237,0.177811,0.427741,0.431808,,Cloudflare WARP,0.233,0.191,False
+HTTPS,https://jamaicaobserver.com,"Boardman, US",0.000771,0.032589,0.082794,0.274342,0.276581,,Cloudflare WARP,0.133,0.133,False
+HTTPS,https://lapatria.bo,"Phoenix, US",0.000603,0.03211,0.08236,0.166478,0.207218,,Cloudflare WARP,0.098,0.088,False
+HTTPS,https://emol.com,"Santiago, CL",0.000724,0.182433,0.23303,0.595747,1.453656,,Cloudflare WARP,0.493,0.579,False
+HTTPS,https://elobservador.com.uy,"San Jose, US",0.00064,0.012436,0.063394,0.133186,0.135207,,Cloudflare WARP,0.069,0.064,False
+HTTPS,https://bbc.co.uk,"San Francisco, US",0.00068,0.010923,0.061883,0.109907,0.109953,,Cloudflare WARP,0.059,0.052,False
+HTTPS,https://abc.net.au,"San Jose, US",0.00055,0.013699,0.064613,0.117281,0.139642,,Cloudflare WARP,0.067,0.061,False
+HTTPS,https://nzherald.co.nz,"San Francisco, US",0.000693,0.007502,0.058493,0.10567,0.105741,,Cloudflare WARP,0.056,0.051,False
+HTTPS,https://postcourier.com.pg,"Santa Clara, US",0.000607,0.011811,0.062043,0.258129,0.269077,,Cloudflare WARP,0.12,0.133,False
+HTTPS,https://samoaobserver.ws,"San Francisco, US",0.000677,0.007254,0.057857,0.104898,0.104939,,Cloudflare WARP,0.055,0.051,False
+HTTPS,https://uol.com.br,"São Paulo, BR",0.000724,0.186522,0.237365,0.787047,0.787085,,Cloudflare WARP,0.4,0.364,False
+HTTPS,https://rte.ie,"San Francisco, US",0.000711,0.009976,0.06238,0.10931,0.109384,,Cloudflare WARP,0.058,0.052,False
+HTTPS,https://news24.com,"San Francisco, US",0.000643,0.009342,0.059348,0.106914,0.106986,,Cloudflare WARP,0.057,0.051,False
+UPLOAD,sse-test-bucket-af-south-1,"Cape Town, ZA",10485760.0,7.076,7.076,1.41,,,Cloudflare WARP,2621443.89,5242877.406,False
+UPLOAD,sse-test-bucket-ap-east-1,"Hong Kong, HK",10485760.0,2.686,2.686,3.72,,,Cloudflare WARP,2621442.273,5242878.485,False
+UPLOAD,sse-test-bucket-ap-northeast-1,"Tokyo, JP",10485760.0,1.666,1.666,6.0,,,Cloudflare WARP,2621442.333,5242878.445,False
+UPLOAD,sse-test-bucket-ap-northeast-3,"Osaka, JP",10485760.0,1.816,1.816,5.51,,,Cloudflare WARP,2621442.286,5242878.476,False
+UPLOAD,sse-test-bucket-ap-south-1,"Mumbai, IN",10485760.0,3.137,3.137,3.19,,,Cloudflare WARP,2621442.366,5242878.423,False
+UPLOAD,sse-test-bucket-ap-south-2,"Hyderābād, IN",10485760.0,3.378,3.378,2.96,,,Cloudflare WARP,2621442.429,5242878.381,False
+UPLOAD,sse-test-bucket-ap-southeast-1,"Singapore, SG",10485760.0,2.558,2.558,3.91,,,Cloudflare WARP,2621442.256,5242878.496,False
+UPLOAD,sse-test-bucket-ap-southeast-2,"Sydney, AU",10485760.0,2.255,2.255,4.43,,,Cloudflare WARP,2621442.235,5242878.51,False
+UPLOAD,sse-test-bucket-ap-southeast-4,"Melbourne, AU",10485760.0,2.262,2.262,4.42,,,Cloudflare WARP,2621442.236,5242878.509,False
+UPLOAD,sse-test-bucket-ap-southeast-5,"Kuala Lumpur, MY",10485760.0,2.66,2.66,3.76,,,Cloudflare WARP,2621442.27,5242878.487,False
+UPLOAD,sse-test-bucket-ca-central-1,"Montréal, CA",10485760.0,1.413,1.413,7.08,,,Cloudflare WARP,2621442.477,5242878.349,False
+UPLOAD,sse-test-bucket-ca-west-1,"Calgary, CA",10485760.0,0.891,0.891,11.22,,,Cloudflare WARP,2621443.251,5242877.833,False
+UPLOAD,sse-test-bucket-eu-central-1,"Frankfurt am Main, DE",10485760.0,2.746,2.746,3.64,,,Cloudflare WARP,2621442.283,5242878.478,False
+UPLOAD,sse-test-bucket-eu-central-2,"Zürich, CH",10485760.0,2.471,2.471,4.05,,,Cloudflare WARP,2621442.248,5242878.501,False
+UPLOAD,sse-test-bucket-eu-north-1,"Stockholm, SE",10485760.0,2.527,2.527,3.96,,,Cloudflare WARP,2621442.254,5242878.498,False
+UPLOAD,sse-test-bucket-eu-south-1,"Milan, IT",10485760.0,5.921,5.921,1.69,,,Cloudflare WARP,2621443.383,5242877.745,False
+UPLOAD,sse-test-bucket-eu-west-1,"Dublin, IE",10485760.0,2.196,2.196,4.55,,,Cloudflare WARP,2621442.236,5242878.51,False
+UPLOAD,sse-test-bucket-eu-west-2,"London, GB",10485760.0,2.257,2.257,4.43,,,Cloudflare WARP,2621442.236,5242878.509,False
+UPLOAD,sse-test-bucket-eu-west-3,"Paris, FR",10485760.0,2.604,2.604,3.84,,,Cloudflare WARP,2621442.262,5242878.492,False
+UPLOAD,sse-test-bucket-il-central-1,"Tel Aviv, IL",10485760.0,2.981,2.981,3.35,,,Cloudflare WARP,2621442.328,5242878.448,False
+UPLOAD,sse-test-bucket-me-central-1,"Dubai, AE",10485760.0,3.714,3.714,2.69,,,Cloudflare WARP,2621442.529,5242878.314,False
+UPLOAD,sse-test-bucket-me-south-1,"Dār Kulayb, BH",10485760.0,3.576,3.576,2.8,,,Cloudflare WARP,2621442.488,5242878.341,False
+UPLOAD,sse-test-bucket-mx-central-1,"Santiago de Querétaro, MX",10485760.0,1.287,1.287,7.77,,,Cloudflare WARP,2621442.586,5242878.276,False
+UPLOAD,sse-test-bucket-sa-east-1,"São Paulo, BR",10485760.0,2.943,2.943,3.4,,,Cloudflare WARP,2621442.322,5242878.452,False
+UPLOAD,sse-test-bucket-us-east-1,"Ashburn, US",10485760.0,1.478,1.478,6.76,,,Cloudflare WARP,2621442.429,5242878.381,False
+UPLOAD,sse-test-bucket-us-west-1,"San Jose, US",10485760.0,0.612,0.612,16.34,,,Cloudflare WARP,2621444.391,5242877.073,False
+DOWNLOAD,sse-test-bucket-af-south-1,"Cape Town, ZA",1.357,6.487,5.951,13.795,0.72,10485760.0,Cloudflare WARP,1747631.385,4280791.283,False
+DOWNLOAD,sse-test-bucket-ap-east-1,"Hong Kong, HK",0.719,1.782,0.582,3.083,3.24,10485760.0,Cloudflare WARP,1747628.234,4280792.826,False
+DOWNLOAD,sse-test-bucket-ap-northeast-1,"Tokyo, JP",0.544,1.066,0.545,2.154,4.64,10485760.0,Cloudflare WARP,1747628.158,4280792.864,False
+DOWNLOAD,sse-test-bucket-ap-northeast-3,"Osaka, JP",0.484,1.04,0.567,2.091,4.78,10485760.0,Cloudflare WARP,1747628.16,4280792.862,False
+DOWNLOAD,sse-test-bucket-ap-south-1,"Mumbai, IN",0.891,6.509,5.443,12.842,0.78,10485760.0,Cloudflare WARP,1747631.078,4280791.433,False
+DOWNLOAD,sse-test-bucket-ap-south-2,"Hyderābād, IN",1.074,6.411,5.807,13.292,0.75,10485760.0,Cloudflare WARP,1747631.222,4280791.362,False
+DOWNLOAD,sse-test-bucket-ap-southeast-1,"Singapore, SG",0.717,2.28,0.578,3.575,2.8,10485760.0,Cloudflare WARP,1747628.325,4280792.782,False
+DOWNLOAD,sse-test-bucket-ap-southeast-2,"Sydney, AU",0.742,1.259,0.567,2.567,3.9,10485760.0,Cloudflare WARP,1747628.172,4280792.857,False
+DOWNLOAD,sse-test-bucket-ap-southeast-4,"Melbourne, AU",0.797,1.512,0.572,2.881,3.47,10485760.0,Cloudflare WARP,1747628.205,4280792.84,False
+DOWNLOAD,sse-test-bucket-ap-southeast-5,"Kuala Lumpur, MY",0.855,1.708,0.608,3.171,3.15,10485760.0,Cloudflare WARP,1747628.249,4280792.819,False
+DOWNLOAD,sse-test-bucket-ca-central-1,"Montréal, CA",0.493,0.719,0.571,1.782,5.61,10485760.0,Cloudflare WARP,1747628.196,4280792.845,False
+DOWNLOAD,sse-test-bucket-ca-west-1,"Calgary, CA",0.273,0.468,0.556,1.297,7.71,10485760.0,Cloudflare WARP,1747628.384,4280792.753,False
+DOWNLOAD,sse-test-bucket-eu-central-1,"Frankfurt am Main, DE",0.686,1.63,0.587,2.903,3.45,10485760.0,Cloudflare WARP,1747628.209,4280792.838,False
+DOWNLOAD,sse-test-bucket-eu-central-2,"Zürich, CH",0.816,1.481,0.573,2.87,3.48,10485760.0,Cloudflare WARP,1747628.203,4280792.841,False
+DOWNLOAD,sse-test-bucket-eu-north-1,"Stockholm, SE",0.746,2.206,0.578,3.53,2.83,10485760.0,Cloudflare WARP,1747628.315,4280792.787,False
+DOWNLOAD,sse-test-bucket-eu-south-1,"Milan, IT",0.832,2.103,0.569,3.504,2.85,10485760.0,Cloudflare WARP,1747628.31,4280792.789,False
+DOWNLOAD,sse-test-bucket-eu-west-1,"Dublin, IE",0.591,1.268,0.588,2.448,4.09,10485760.0,Cloudflare WARP,1747628.164,4280792.861,False
+DOWNLOAD,sse-test-bucket-eu-west-2,"London, GB",0.55,1.234,0.574,2.358,4.24,10485760.0,Cloudflare WARP,1747628.159,4280792.863,False
+DOWNLOAD,sse-test-bucket-eu-west-3,"Paris, FR",0.739,1.682,0.574,2.995,3.34,10485760.0,Cloudflare WARP,1747628.222,4280792.832,False
+DOWNLOAD,sse-test-bucket-il-central-1,"Tel Aviv, IL",0.998,1.899,0.574,3.471,2.88,10485760.0,Cloudflare WARP,1747628.304,4280792.792,False
+DOWNLOAD,sse-test-bucket-me-central-1,"Dubai, AE",1.236,2.468,0.564,4.269,2.34,10485760.0,Cloudflare WARP,1747628.48,4280792.706,False
+DOWNLOAD,sse-test-bucket-me-south-1,"Dār Kulayb, BH",1.198,6.5,5.864,13.562,0.74,10485760.0,Cloudflare WARP,1747631.311,4280791.319,False
+DOWNLOAD,sse-test-bucket-mx-central-1,"Santiago de Querétaro, MX",0.368,0.679,0.589,1.636,6.11,10485760.0,Cloudflare WARP,1747628.23,4280792.828,False
+DOWNLOAD,sse-test-bucket-sa-east-1,"São Paulo, BR",0.889,1.657,0.587,3.133,3.19,10485760.0,Cloudflare WARP,1747628.243,4280792.822,False
+DOWNLOAD,sse-test-bucket-us-east-1,"Ashburn, US",0.461,0.686,0.558,1.705,5.86,10485760.0,Cloudflare WARP,1747628.212,4280792.837,False
+DOWNLOAD,sse-test-bucket-us-west-1,"San Jose, US",0.178,0.194,0.566,0.938,10.66,10485760.0,Cloudflare WARP,1747628.756,4280792.571,False
+IPERF3-TCP,13.247.37.65,"Cape Town, ZA",,118341132.0,94.67,79.02,242.0,,Cloudflare WARP,29585386.922,59170496.718,False
+IPERF3-UDP-UL-100M,13.247.37.65,"Cape Town, ZA",,124989524.0,99.99,0.034748368,0.0,0.0,Cloudflare WARP,24997924.805,55897003.245,False
+IPERF3-UDP-DL-100M,13.247.37.65,"Cape Town, ZA",,129039468.0,99.99,0.033832521,227.0,0.21602382923649374,Cloudflare WARP,25807959.048,57708167.859,False
+IPERF3-UDP-UL-500M,13.247.37.65,"Cape Town, ZA",,624952532.0,499.96,0.015376612235370877,6382.0,1.2540306021193943,Cloudflare WARP,124991883.046,279486499.297,False
+IPERF3-UDP-DL-500M,13.247.37.65,"Cape Town, ZA",,644011092.0,499.97,0.059749978,6391.0,1.218635532445146,Cloudflare WARP,128803596.85,288009745.431,False
+IPERF3-UDP-UL-1000M,13.247.37.65,"Cape Town, ZA",,1249922256.0,999.93,0.013501290578106583,255594.0,25.111116350903668,Cloudflare WARP,250035775.011,558953546.247,False
+IPERF3-UDP-DL-1000M,13.247.37.65,"Cape Town, ZA",,1295413516.0,1000.0,0.023924629466687317,438512.0,41.5691769,Cloudflare WARP,259170613.919,579277423.635,False
+IPERF3-UDP-UL-5000M,13.247.37.65,"Cape Town, ZA",,3226342820.0,2581.07,0.006542958,1837464.0,69.93695084,Cloudflare WARP,645636587.003,1442658860.929,False
+IPERF3-UDP-DL-5000M,13.247.37.65,"Cape Town, ZA",,3508755804.0,2696.75,0.036893035,2081850.0,72.86092116,Cloudflare WARP,702168084.73,1568930490.027,False
+IPERF3-TCP,18.182.224.145,"Tokyo, JP",,340415108.0,272.33,265.99,657.0,,Cloudflare WARP,85104075.83,170207354.78,False
+IPERF3-UDP-UL-100M,18.182.224.145,"Tokyo, JP",,124988296.0,99.99,0.022424906809277348,337.0,0.3310998015366175,Cloudflare WARP,24997746.669,55896416.353,False
+IPERF3-UDP-DL-100M,18.182.224.145,"Tokyo, JP",,126788544.0,99.99,0.031995214,238.0,0.23051293971796064,Cloudflare WARP,25357776.451,56701522.813,False
+IPERF3-UDP-UL-500M,18.182.224.145,"Tokyo, JP",,624952532.0,499.96,0.012444883,6636.0,1.3039403127020213,Cloudflare WARP,124991933.855,279486470.895,False
+IPERF3-UDP-DL-500M,18.182.224.145,"Tokyo, JP",,634512512.0,499.97,0.042200498,6483.0,1.2546835325447452,Cloudflare WARP,126903899.253,283761841.03,False
+IPERF3-UDP-UL-1000M,18.182.224.145,"Tokyo, JP",,1249921028.0,999.93,0.011298185056738207,256081.0,25.158986924412314,Cloudflare WARP,250035626.82,558952942.657,False
+IPERF3-UDP-DL-1000M,18.182.224.145,"Tokyo, JP",,1271289456.0,999.98,0.023676587756181755,462836.0,44.70756878518467,Cloudflare WARP,254350667.342,568486100.373,False
+IPERF3-UDP-UL-5000M,18.182.224.145,"Tokyo, JP",,3319532056.0,2655.62,0.008576677,1871551.0,69.2345966,Cloudflare WARP,664281266.373,1484330536.745,False
+IPERF3-UDP-DL-5000M,18.182.224.145,"Tokyo, JP",,4948167056.0,3888.14,0.030636927006520424,3300722.0,81.91491051388626,Cloudflare WARP,990294349.617,2212518565.71,False
+IPERF3-TCP,54.179.99.200,"Singapore, SG",,244755136.0,195.8,174.01,487.0,,Cloudflare WARP,61188998.202,122377425.198,False
+IPERF3-UDP-UL-100M,54.179.99.200,"Singapore, SG",,124989524.0,99.99,0.030845195,82.0,0.080563552,Cloudflare WARP,24997941.22,55896994.068,False
+IPERF3-UDP-DL-100M,54.179.99.200,"Singapore, SG",,127639548.0,99.99,0.042703129,128.0,0.12314678519544742,Cloudflare WARP,25527955.231,57082115.68,False
+IPERF3-UDP-UL-500M,54.179.99.200,"Singapore, SG",,624954988.0,499.96,0.013905199289453392,6413.0,1.2601169926177147,Cloudflare WARP,124992380.447,279487594.187,False
+IPERF3-UDP-DL-500M,54.179.99.200,"Singapore, SG",,638324224.0,499.99,0.018284751,7703.0,1.4818933144545678,Cloudflare WARP,127666485.698,285466354.039,False
+IPERF3-UDP-UL-1000M,54.179.99.200,"Singapore, SG",,1249927168.0,999.93,0.009916015,216181.0,21.238858934859156,Cloudflare WARP,250028874.036,558960146.786,False
+IPERF3-UDP-DL-1000M,54.179.99.200,"Singapore, SG",,1284041008.0,999.93,0.018192922777171758,516956.0,49.43938425991454,Cloudflare WARP,256911802.678,574182724.77,False
+IPERF3-UDP-UL-5000M,54.179.99.200,"Singapore, SG",,3241662120.0,2593.33,0.011661139298113327,1798946.0,68.14731474852167,Cloudflare WARP,648692745.498,1449514155.342,False
+IPERF3-UDP-DL-5000M,54.179.99.200,"Singapore, SG",,4905264420.0,3815.16,0.058773316,3237649.0,81.05236805970186,Cloudflare WARP,981701193.054,2193338970.057,False
+IPERF3-TCP,43.204.17.203,"Mumbai, IN",,165808244.0,132.65,126.67,329.0,,Cloudflare WARP,41452208.08,82904023.947,False
+IPERF3-UDP-UL-100M,43.204.17.203,"Mumbai, IN",,124989524.0,99.99,0.080007644,34.0,0.0334044,Cloudflare WARP,24997931.621,55896999.435,False
+IPERF3-UDP-DL-100M,43.204.17.203,"Mumbai, IN",,128402136.0,99.99,0.02451844,276.0,0.2639582257416652,Cloudflare WARP,25680502.456,57423138.841,False
+IPERF3-UDP-UL-500M,43.204.17.203,"Mumbai, IN",,624953760.0,499.96,0.022792033,6844.0,1.3448086143205218,Cloudflare WARP,124992221.066,279486996.813,False
+IPERF3-UDP-DL-500M,43.204.17.203,"Mumbai, IN",,642393816.0,500.0,0.054624128,7696.0,1.4711673376382566,Cloudflare WARP,128480402.705,287286331.688,False
+IPERF3-UDP-UL-1000M,43.204.17.203,"Mumbai, IN",,1249928396.0,999.94,0.026146668,243640.0,23.936564763026634,Cloudflare WARP,250034611.981,558957627.765,False
+IPERF3-UDP-DL-1000M,43.204.17.203,"Mumbai, IN",,1285540396.0,999.97,0.1445724874567966,473419.0,45.222890996573554,Cloudflare WARP,257202972.067,574858132.428,False
+IPERF3-UDP-UL-5000M,43.204.17.203,"Mumbai, IN",,3014290552.0,2411.43,0.011744159,1629997.0,66.40488969027562,Cloudflare WARP,603184605.369,1347849384.019,False
+IPERF3-UDP-DL-5000M,43.204.17.203,"Mumbai, IN",,4984412704.0,3851.59,0.015896647446467047,3249634.0,80.06059668368906,Cloudflare WARP,997533253.933,2228733810.957,False
+IPERF3-TCP,13.237.82.59,"Sydney, AU",,279286496.0,223.43,213.89,626.0,,Cloudflare WARP,69821889.83,139643070.78,False
+IPERF3-UDP-UL-100M,13.237.82.59,"Sydney, AU",,124989524.0,99.99,0.038405394,62.0,0.060913905,Cloudflare WARP,24997937.218,55896996.306,False
+IPERF3-UDP-DL-100M,13.237.82.59,"Sydney, AU",,127276060.0,100.0,0.043021183,245.0,0.2363838101210864,Cloudflare WARP,25455281.056,56919545.81,False
+IPERF3-UDP-UL-500M,13.237.82.59,"Sydney, AU",,624951304.0,499.96,0.014441906642590535,6943.0,1.3642669349482628,Cloudflare WARP,124991749.668,279485887.387,False
+IPERF3-UDP-DL-500M,13.237.82.59,"Sydney, AU",,636574324.0,499.98,0.017966244,7881.0,1.5203044852936922,Cloudflare WARP,127316541.304,284683755.065,False
+IPERF3-UDP-UL-1000M,13.237.82.59,"Sydney, AU",,1249922256.0,999.93,0.011410780842455438,236387.0,23.224103307750045,Cloudflare WARP,250031933.233,558955692.283,False
+IPERF3-UDP-DL-1000M,13.237.82.59,"Sydney, AU",,1278287828.0,999.99,0.086792151,438832.0,42.15683543221535,Cloudflare WARP,255745540.447,571618547.743,False
+IPERF3-UDP-UL-5000M,13.237.82.59,"Sydney, AU",,2745593100.0,2196.47,0.015430285016028061,1440082.0,64.40942381447564,Cloudflare WARP,549407088.579,1227705461.39,False
+IPERF3-UDP-DL-5000M,13.237.82.59,"Sydney, AU",,5209471948.0,4079.6,0.020368717,3491246.0,82.29721037,Cloudflare WARP,1042593471.184,2329356372.211,False
+IPERF3-TCP,63.177.5.144,"Frankfurt am Main, DE",,221571724.0,177.26,164.53,415.0,,Cloudflare WARP,55393120.198,110785735.868,False
+IPERF3-UDP-UL-100M,63.177.5.144,"Frankfurt am Main, DE",,124989524.0,99.99,0.039605336520080456,0.0,0.0,Cloudflare WARP,24997924.806,55897003.244,False
+IPERF3-UDP-DL-100M,63.177.5.144,"Frankfurt am Main, DE",,127702176.0,99.99,0.03755825,441.0,0.42407108239095315,Cloudflare WARP,25540543.49,57110088.746,False
+IPERF3-UDP-UL-500M,63.177.5.144,"Frankfurt am Main, DE",,624956216.0,499.96,0.012270675,6347.0,1.2471459280597026,Cloudflare WARP,124992612.844,279488150.746,False
+IPERF3-UDP-DL-500M,63.177.5.144,"Frankfurt am Main, DE",,639067164.0,499.99,0.053290791,6314.0,1.213267155124872,Cloudflare WARP,127814795.851,285798762.222,False
+IPERF3-UDP-UL-1000M,63.177.5.144,"Frankfurt am Main, DE",,1249921028.0,999.93,0.007817369,212537.0,20.880954088565026,Cloudflare WARP,250026917.164,558957808.085,False
+IPERF3-UDP-DL-1000M,63.177.5.144,"Frankfurt am Main, DE",,1284636588.0,999.98,0.083924617,434299.0,41.51517845,Cloudflare WARP,257014385.716,574458305.606,False
+IPERF3-UDP-UL-5000M,63.177.5.144,"Frankfurt am Main, DE",,3017291784.0,2413.83,0.014995730468401754,1693446.0,68.92113315084015,Cloudflare WARP,603797542.553,1349184495.871,False
+IPERF3-UDP-DL-5000M,63.177.5.144,"Frankfurt am Main, DE",,2924668656.0,2291.67,0.022395195,1656409.0,69.54874179771016,Cloudflare WARP,585265485.248,1307766325.646,False
+IPERF3-TCP,63.34.149.41,"Dublin, IE",,248444048.0,198.75,191.23,386.0,,Cloudflare WARP,62111205.995,124221894.67,False
+IPERF3-UDP-UL-100M,63.34.149.41,"Dublin, IE",,124989524.0,99.99,0.044767581,0.0,0.0,Cloudflare WARP,24997924.807,55897003.244,False
+IPERF3-UDP-DL-100M,63.34.149.41,"Dublin, IE",,127314128.0,100.0,0.079336624,277.0,0.26717851768972567,Cloudflare WARP,25462901.069,56936566.752,False
+IPERF3-UDP-UL-500M,63.34.149.41,"Dublin, IE",,624951304.0,499.96,0.016989213,14188.0,2.787875453412927,Cloudflare WARP,124993198.953,279485077.263,False
+IPERF3-UDP-DL-500M,63.34.149.41,"Dublin, IE",,637389716.0,500.0,0.014293957192373226,8275.0,1.594267956,Cloudflare WARP,127479698.522,285048365.394,False
+IPERF3-UDP-UL-1000M,63.34.149.41,"Dublin, IE",,1249925940.0,999.93,0.007191019,175671.0,17.258941597771784,Cloudflare WARP,250020525.639,558964124.551,False
+IPERF3-UDP-DL-1000M,63.34.149.41,"Dublin, IE",,1279159708.0,999.92,0.012185695,429548.0,41.23683232836787,Cloudflare WARP,255918059.434,572009501.093,False
+IPERF3-UDP-UL-5000M,63.34.149.41,"Dublin, IE",,2985044504.0,2388.03,0.013948302,1607187.0,66.11712600449725,Cloudflare WARP,597330829.032,1334772703.249,False
+IPERF3-UDP-DL-5000M,63.34.149.41,"Dublin, IE",,4904187464.0,3833.29,0.017778487756111374,3289362.0,82.36505161,Cloudflare WARP,981496148.335,2192851571.356,False
+IPERF3-TCP,54.232.52.243,"São Paulo, BR",,213315880.0,170.65,165.04,410.0,,Cloudflare WARP,53329156.422,106657815.718,False
+IPERF3-UDP-UL-100M,54.232.52.243,"São Paulo, BR",,124989524.0,99.99,0.084036263,37.0,0.036351847,Cloudflare WARP,24997932.222,55896999.098,False
+IPERF3-UDP-DL-100M,54.232.52.243,"São Paulo, BR",,127839712.0,100.0,0.047115098,224.0,0.2151694459386767,Cloudflare WARP,25568007.252,57171620.998,False
+IPERF3-UDP-UL-500M,54.232.52.243,"São Paulo, BR",,624954988.0,499.96,0.020964464302589175,10028.0,1.9704433497536946,Cloudflare WARP,124993103.59,279487189.957,False
+IPERF3-UDP-DL-500M,54.232.52.243,"São Paulo, BR",,638767532.0,499.98,0.013277069,8508.0,1.6356222689164484,Cloudflare WARP,127755308.326,285664517.39,False
+IPERF3-UDP-UL-1000M,54.232.52.243,"São Paulo, BR",,1249922256.0,999.93,0.00775611,225246.0,22.129543391377137,Cloudflare WARP,250029704.813,558956937.146,False
+IPERF3-UDP-DL-1000M,54.232.52.243,"São Paulo, BR",,1282661964.0,999.99,0.06505576,425132.0,40.70145609,Cloudflare WARP,256617627.351,573576250.662,False
+IPERF3-UDP-UL-5000M,54.232.52.243,"São Paulo, BR",,3153162616.0,2522.53,0.009225292,1700193.0,66.21406056,Cloudflare WARP,630973079.551,1409947005.92,False
+IPERF3-UDP-DL-5000M,54.232.52.243,"São Paulo, BR",,5238832200.0,4077.49,0.057194087,3525642.0,82.64224183,Cloudflare WARP,1048472400.438,2342482837.585,False
+IPERF3-TCP,54.237.15.83,"Ashburn, US",,342571476.0,274.05,271.27,778.0,,Cloudflare WARP,85643199.83,171285517.447,False
+IPERF3-UDP-UL-100M,54.237.15.83,"Ashburn, US",,124989524.0,99.99,0.024546870713884554,25.0,0.024562058496998516,Cloudflare WARP,24997929.808,55897000.448,False
+IPERF3-UDP-DL-100M,54.237.15.83,"Ashburn, US",,126326816.0,99.99,0.047117120251093575,256.0,0.24885294346372192,Cloudflare WARP,25265434.457,56495029.758,False
+IPERF3-UDP-UL-500M,54.237.15.83,"Ashburn, US",,624953760.0,499.96,0.013662854217940577,7287.0,1.4318556944116954,Cloudflare WARP,124992309.681,279486947.278,False
+IPERF3-UDP-DL-500M,54.237.15.83,"Ashburn, US",,632198960.0,499.97,0.035924524,6921.0,1.3443533662250884,Cloudflare WARP,126441276.47,282727140.144,False
+IPERF3-UDP-UL-1000M,54.237.15.83,"Ashburn, US",,1249921028.0,999.93,0.030663664942338176,271171.0,26.641522187432148,Cloudflare WARP,250038645.12,558951256.708,False
+IPERF3-UDP-DL-1000M,54.237.15.83,"Ashburn, US",,1267163376.0,999.98,0.042984542,434362.0,42.09374624476205,Cloudflare WARP,253519756.023,566644040.972,False
+IPERF3-UDP-UL-5000M,54.237.15.83,"Ashburn, US",,3127735648.0,2502.19,0.009904954,1703775.0,66.89298378965817,Cloudflare WARP,625888398.419,1398575324.236,False
+IPERF3-UDP-DL-5000M,54.237.15.83,"Ashburn, US",,5169270912.0,4073.31,0.053560271,3498860.0,83.11810608,Cloudflare WARP,1034554785.696,2311377077.667,False
+IPERF3-TCP,52.52.79.177,"San Jose, US",,380897356.0,304.72,302.97,881.0,,Cloudflare WARP,95224711.173,190448429.885,False
+IPERF3-UDP-UL-100M,52.52.79.177,"San Jose, US",,124989524.0,99.99,0.041644314,0.0,0.0,Cloudflare WARP,24997924.806,55897003.244,False
+IPERF3-UDP-DL-100M,52.52.79.177,"San Jose, US",,125489320.0,99.99,0.087251663,265.0,0.2593208728838438,Cloudflare WARP,25097937.067,56120489.148,False
+IPERF3-UDP-UL-500M,52.52.79.177,"San Jose, US",,624952532.0,499.96,0.023894606873213813,7297.0,1.433823457170984,Cloudflare WARP,124992066.084,279486396.98,False
+IPERF3-UDP-DL-500M,52.52.79.177,"San Jose, US",,627451512.0,499.96,0.038041694,10410.0,2.037365398842166,Cloudflare WARP,125492484.807,280603626.716,False
+IPERF3-UDP-UL-1000M,52.52.79.177,"San Jose, US",,1249928396.0,999.94,0.011044356563792471,249759.0,24.53772975968137,Cloudflare WARP,250035835.898,558956944.08,False
+IPERF3-UDP-DL-1000M,52.52.79.177,"San Jose, US",,1272291504.0,999.94,0.04195128,472206.0,45.57673820637255,Cloudflare WARP,254552951.112,568933183.584,False
+IPERF3-UDP-UL-5000M,52.52.79.177,"San Jose, US",,3146305464.0,2517.04,0.008585999,1803889.0,70.40561437362078,Cloudflare WARP,629622388.091,1406868825.521,False
+IPERF3-UDP-DL-5000M,52.52.79.177,"San Jose, US",,2548881008.0,2021.33,0.020304317009406225,1409668.0,67.91499088,Cloudflare WARP,510058553.053,1139736564.123,False
