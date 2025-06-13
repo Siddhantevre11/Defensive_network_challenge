@@ -1,15 +1,15 @@
 # Defensive Network Project
-# 🌐 Network Performance Dashboard (Cloudflare vs Baseline)
+# Network Performance Dashboard (Cloudflare vs Baseline)
 
 This project presents an interactive Tableau dashboard that compares global network performance using data from two configurations:
-- 🔵 **Baseline AWS EC2 network tests**
-- 🟣 **Cloudflare WARP secure network tests**
+- **Baseline AWS EC2 network tests**
+- **Cloudflare WARP secure network tests**
 
 The goal is to analyze latency, failure rates, and regional performance differences between the two.
 
 ---
 
-## 📊 Dashboard Overview
+## Dashboard Overview
 
 The dashboard is controlled by a dynamic **View Selector** and includes:
 
@@ -28,7 +28,7 @@ The top section includes **KPI cards** to summarize overall performance:
 
 ---
 
-## 📦 Files Included
+## Files Included
 
 | File                               | Description                                  |
 |------------------------------------|----------------------------------------------|
@@ -38,7 +38,7 @@ The top section includes **KPI cards** to summarize overall performance:
 
 ---
 
-## 🧠 Key Insights
+## Key Insights
 
 - Cloudflare significantly reduced average latency in several regions (Africa, Asia)
 - Some HTTPS tests showed slightly increased latency due to inspection overhead
@@ -47,7 +47,7 @@ The top section includes **KPI cards** to summarize overall performance:
 
 ---
 
-## 🚀 Tools Used
+## Tools Used
 - Tableau Desktop
 - Python (for data cleaning)
 - Pandas / CSV
@@ -55,7 +55,7 @@ The top section includes **KPI cards** to summarize overall performance:
 
 ---
 
-## 📈 Demo
+## Demo
 
 https://public.tableau.com/app/profile/siddhant.evre/viz/Network_Performance_dashboard/Dashboard1
 
