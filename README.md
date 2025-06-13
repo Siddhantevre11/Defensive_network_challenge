@@ -61,7 +61,7 @@ https://public.tableau.com/app/profile/siddhant.evre/viz/Network_Performance_das
 
 ---
 
-## 🧑‍💼 Author
+## Author
 **Siddhant Evre**  
 MS in Information Management, University of Illinois Urbana-Champaign  
 [LinkedIn](https://www.linkedin.com/in/siddhantevre/)
